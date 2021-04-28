@@ -1,0 +1,55 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2009-06-26T11:51:56.667-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Przy uruchomieniu PluginSystem.exe na Vista x64 + .NET Framework 3.5 SP1 aplikacja zawiesza się:\n \nWindows udostępnia następujące informacje o błędzie:\n \nDescription:\n  Stopped working\n \nProblem signature:\n  Problem Event Name:\tAPPCRASH\n  Application Name:\tPluginSystem.exe\n  Application Version:\t1.5.0.4\n  Application Timestamp:\t4a354d0e\n  Fault Module Name:\tKERNEL32.dll\n  Fault Module Version:\t6.0.6001.18215\n  Fault Module Timestamp:\t4995354a\n  Exception Code:\te0434f4d\n  Exception Offset:\t000000000002619d\n  OS Version:\t6.0.6001.2.1.0.256.1\n  Locale ID:\t1045",
+    "LastUpdatedDate": "2013-05-15T22:15:34.96-07:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "SmUxPlugins",
+    "ReportedDate": "2009-06-24T15:19:44.45-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "PluginSystem.exe na Vista x64 nie dziala",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 1,
+    "Id": 1646
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "Resolved with changeset 23206.",
+      "PostedDate": "2009-06-26T11:51:56.667-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-02-13T17:05:06.63-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-05-15T22:15:34.96-07:00",
+      "Id": -2147483648
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "Id": "246027",
+    "ThreadId": "72094",
+    "Html": "<p>Czy dałoby się zrobić tak, żeby była możliwość zdefiniowania jakie przyciski mają pojawić się na spellpadzie ewentualnie w tabeli ze znakami IPA u dołu strony? Fajnie, gdyby można było to ustalić w jakimś zewnętrznym pliku xml. Znacznie ułatwiłoby to naukę nie tylko hebrajskiego, ale wszystkich język&oacute;w z innymi alfabetami niż łaciński. Język hebrajski jest r&oacute;wnież często transliterowany przy użyciu specyficznych znak&oacute;w. Gdyby była możliwość ustalenia dowolnych znak&oacute;w przez użytkownika rozwiązałoby to r&oacute;wnież i tę trudność.</p>",
+    "PostedDate": "2009-10-15T06:44:50.203-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "246889",
+    "ThreadId": "72094",
+    "Html": "<p>Spr&oacute;buję pomyśleć o takim rozszerzeniu w następnej wersji</p>\r\n<p>&nbsp;</p>",
+    "PostedDate": "2009-10-17T11:27:59.493-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "246899",
+    "ThreadId": "72094",
+    "Html": "\r\n\r\n<div class=Section1>\r\n\r\n<p class=MsoNormal><span style=\"font-size:11.0pt;font-family:'Calibri','sans-serif';color:#1F497D\">Tak na marginesie - wielkie dzięki za to co robicie! </span></p>\r\n\r\n<p class=MsoNormal><span style=\"font-size:11.0pt;font-family:'Calibri','sans-serif';color:#1F497D\">Wasze wtyczki bardzo pomagają mi w pracy z programem i pozwalają\r\nzaoszczędzić sporo czasu. Jak myślę o pracy z SuperMemo UX zanim je znalazłem w\r\ninternecie… szkoda gadać ;-) </span></p>\r\n\r\n<p class=MsoNormal><span style=\"font-size:11.0pt;font-family:'Calibri','sans-serif';color:#1F497D\">Z pewnością można by pomyśleć o innych jeszcze brakujących funkcjach,\r\njednak nawet bez nich już mamy do czynienia z wartościową aplikacją.\r\nGratulacje!</span></p>\r\n\r\n<p class=MsoNormal><span style=\"font-size:11.0pt;font-family:'Calibri','sans-serif';color:#1F497D\"> </span></p>\r\n\r\n<p class=MsoNormal><span style=\"font-size:11.0pt;font-family:'Calibri','sans-serif';color:#1F497D\">Pozdrawiam,</span></p>\r\n\r\n<p class=MsoNormal><span style=\"font-size:11.0pt;font-family:'Calibri','sans-serif';color:#1F497D\">jacek</span></p>\r\n\r\n<p class=MsoNormal><span style=\"font-size:11.0pt;font-family:'Calibri','sans-serif';color:#1F497D\"> </span></p>\r\n\r\n<p class=MsoNormal><span style=\"font-size:11.0pt;font-family:'Calibri','sans-serif';color:#1F497D\"> </span></p>\r\n\r\n<p class=MsoNormal><span style=\"font-size:11.0pt;font-family:'Calibri','sans-serif';color:#1F497D\"> </span></p>\r\n\r\n<div>\r\n\r\n<div style=\"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm 0cm 0cm\">\r\n\r\n<p class=MsoNormal style=\"margin-left:35.4pt\"><b><span style=\"font-size:10.0pt;font-family:'Tahoma','sans-serif'\">From:</span></b><span style=\"font-size:10.0pt;font-family:'Tahoma','sans-serif'\"> michalczerwinski\r\n[mailto:notifications@codeplex.com] <br>\r\n<b>Sent:</b> Saturday, October 17, 2009 8:28 PM<br>\r\n<b>To:</b> jacekrszewczyk@gmail.com<br>\r\n<b>Subject:</b> Re: hebrajskie znaki w klawiaturce spellpad'u\r\n[SmUxPlugins:72094]</span></p>\r\n\r\n</div>\r\n\r\n</div>\r\n\r\n<p class=MsoNormal style=\"margin-left:35.4pt\"> </p>\r\n\r\n<p style=\"margin-left:35.4pt\"><span style=\"font-size:9.0pt;font-family:'Verdana','sans-serif'\">From:\r\nmichalczerwinski</span></p>\r\n\r\n<div style=\"margin-bottom:24.0pt\" id=ThreadNotificationPostBody>\r\n\r\n<p style=\"margin-left:35.4pt\"><span style=\"font-size:9.0pt;font-family:'Verdana','sans-serif'\">Spróbuję\r\npomyśleć o takim rozszerzeniu w następnej wersji</span></p>\r\n\r\n<p style=\"margin-left:35.4pt\"><span style=\"font-size:9.0pt;font-family:'Verdana','sans-serif'\"> </span></p>\r\n\r\n</div>\r\n\r\n<div style=\"border:none;border-top:solid #CCCCCC 1.0pt;padding:0cm 0cm 0cm 0cm\" id=ThreadNotificationFooter>\r\n\r\n<p style=\"margin-left:35.4pt\"><span style=\"font-size:9.0pt;font-family:'Verdana','sans-serif';color:gray\">Read the <a href=\"http://smuxplugins.codeplex.com/Thread/View.aspx?ThreadId=72094&ANCHOR#Post246889\">full\r\ndiscussion online</a>.</span></p>\r\n\r\n<p style=\"margin-left:35.4pt\"><span style=\"font-size:9.0pt;font-family:'Verdana','sans-serif';color:gray\">To add a post to this discussion, reply to this email (<a href=\"mailto:SmUxPlugins@discussions.codeplex.com?subject=[SmUxPlugins:72094]\">SmUxPlugins@discussions.codeplex.com</a>)</span></p>\r\n\r\n<p style=\"margin-left:35.4pt\"><span style=\"font-size:9.0pt;font-family:'Verdana','sans-serif';color:gray\">To start a new discussion for this project, email <a href=\"mailto:SmUxPlugins@discussions.codeplex.com\">SmUxPlugins@discussions.codeplex.com</a></span></p>\r\n\r\n<p style=\"margin-left:35.4pt\"><span style=\"font-size:9.0pt;font-family:'Verdana','sans-serif';color:gray\">You are receiving this email because you subscribed to this\r\ndiscussion on CodePlex. You can <a href=\"http://www.codeplex.com/site/discussions/thread/unsubscribe/72094\">unsubscribe</a>\r\non codePlex.com.</span></p>\r\n\r\n<p style=\"margin-left:35.4pt\"><span style=\"font-size:9.0pt;font-family:'Verdana','sans-serif';color:gray\">Please note: Images and attachments will be removed from emails.\r\nAny posts to this discussion will also be available online at codeplex.com</span></p>\r\n\r\n</div>\r\n\r\n</div>\r\n\r\n",
+    "PostedDate": "2009-10-17T12:45:58.9-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "283719",
+    "ThreadId": "72094",
+    "Html": "<p>Możliwość definiowania swojej własnej tabeli IPA pojawi się w wersji 2.0.0.0 planowanej wstępnie na luty. Przypominam, że najlepszym podziękowaniem i zachętą do pracy jest zastosowanie się do opisu w okienku &quot;Wtyczki - informacje&quot;</p>\r\n<p>&nbsp;</p>",
+    "PostedDate": "2010-01-30T12:42:29.427-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

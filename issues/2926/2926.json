@@ -1,0 +1,60 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "Fix has been confirmed",
+    "ClosedDate": "2010-01-30T12:03:11.923-08:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Just on the beginning appears an error window :\n \nApplication Error,\n \nAn Error Occurred: System.Reflection.TargetInvocationException: Obiekt docelowy wywołania zgłosił wyjątek. ---> System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.",
+    "LastUpdatedDate": "2013-05-15T22:15:34.087-07:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "SmUxPlugins",
+    "ReportedDate": "2009-10-25T04:22:45.683-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Problem with the newest version Supermemo UX (1.4.3.1)",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 6,
+    "Id": 2926
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "Version 1.9.0.0 should be free of this problem",
+      "PostedDate": "2010-01-30T12:02:37.03-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2010-01-30T12:03:11.923-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-02-13T17:05:05.41-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-05-15T22:15:34.087-07:00",
+      "Id": -2147483648
+    }
+  ]
+}

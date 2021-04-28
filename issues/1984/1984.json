@@ -1,0 +1,65 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "currently all items are imported/exported as \"Cwiczenie SuperMemo\"",
+    "LastUpdatedDate": "2013-02-13T17:05:05.763-08:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "SmUxPlugins",
+    "ReportedDate": "2009-08-10T05:01:28.433-07:00",
+    "Status": {
+      "Name": "Proposed",
+      "Id": 1
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "support of template types in Import/Export",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 2,
+    "Id": 1984
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "What do you mean by supporting template types in export?",
+      "PostedDate": "2009-08-10T11:13:43.45-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "I meant item types(I don't know why I called it templates) such us 'Cwiczenie jednorazowe','Cwiczenie SuperMemo','Prezentacja'. The types are not preserved after export-import process, for instance 'Prezentacja' after export&import becomes 'Cwiczenie jednorazowe'.",
+      "PostedDate": "2009-08-11T03:17:27.713-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "ok, now it's clear",
+      "PostedDate": "2009-08-11T07:25:26.223-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2009-11-09T14:52:32.007-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-02-13T17:05:05.763-08:00",
+      "Id": -2147483648
+    }
+  ]
+}

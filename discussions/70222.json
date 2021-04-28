@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "239183",
+    "ThreadId": "70222",
+    "Html": "<p>Osobiscie nie chce tworzyc nowych kursow ani edytowac zawartosci istniejacych ale poszukuje sposobu przeniesienia supermemo extreme english na swoja komorke z windows mobile. Po znalezieniu wtyczek do sm ux i wyczytaniu, ze umozliwiaja one przeniesienie baz danych ze starszych wersji sm do sm ux pomyslalem, ze w koncu bede mogl pouczyc sie angielskiego nie koniecznie siedzac za biurkiem. Niestety okazuje sie, ze wtyczki eksportuja tylko do plikow smuxpack, ktorych nie mozna otworzyc ani w sm ux (dzialajacym bez wtyczek) ani oczywiscie w sm mobile.</p>\r\n<p>Reasumujac przydalaby sie mozliwosc eksportu do plikow smpak.</p>\r\n<p>&nbsp;</p>",
+    "PostedDate": "2009-09-26T15:44:02.49-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "239232",
+    "ThreadId": "70222",
+    "Html": "<p>Utw&oacute;rz nową bazę w SuperMemo UX np o nazwie &quot;angielski&quot; i do niej przenoś sł&oacute;wka z pakietu extreme.</p>\r\n<p>Następnie na telefon skopiuj katalog &quot;angielski&quot;&nbsp; (znajduje się on w: C:\\Program Files\\SuperMemo UX\\courses\\angielski) i w programie SuperMemo Mobile dajesz Importowanie, wskazujesz katalog &quot;angielski&quot; (&nbsp; a w tym katalogu jest plik course.smpak) i program normlanie wszystko importuje i możesz się uczyć.</p>",
+    "PostedDate": "2009-09-27T01:07:07.703-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "239311",
+    "ThreadId": "70222",
+    "Html": "<p>Dziala, dzieki za tipa!</p>",
+    "PostedDate": "2009-09-27T12:24:14.98-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

@@ -1,0 +1,106 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Bardzo często program SM z uruchomionymi wtyczkami zamyka się i dostaję komunikat: \nAn error occurred: \nSystem.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu. \nMa to najczęściej miejsce, na ile mogłem się zorientować, podczas edytowania elementów.",
+    "LastUpdatedDate": "2013-02-13T17:05:03.563-08:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "SmUxPlugins",
+    "ReportedDate": "2010-03-09T04:20:26.993-08:00",
+    "Status": {
+      "Name": "Proposed",
+      "Id": 1
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Application Error",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 2,
+    "Id": 4121
+  },
+  "FileAttachments": [
+    {
+      "FileId": 1352,
+      "FileName": "Application Error.jpg",
+      "DownloadUrl": ".\\1352"
+    },
+    {
+      "FileId": 1461,
+      "FileName": "zwykła edycja elementu - error.log",
+      "DownloadUrl": ".\\1461"
+    },
+    {
+      "FileId": 1462,
+      "FileName": "nagrywanie pytania - error.log",
+      "DownloadUrl": ".\\1462"
+    },
+    {
+      "FileId": 1463,
+      "FileName": "próba uruchomienia wtyczek - error.log",
+      "DownloadUrl": ".\\1463"
+    }
+  ],
+  "Comments": [
+    {
+      "Message": "A mógłbyś dołączyć do problemu zawartość pliku Error.log z katalogu SuperMemo?",
+      "PostedDate": "2010-03-10T13:17:39.79-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2010-04-01T16:05:34.92-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "1. Błąd podczas edycji elementu",
+      "PostedDate": "2010-04-08T17:27:48.033-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2010-04-08T17:27:51.05-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "2. Błąd przy nagrywaniu pytania",
+      "PostedDate": "2010-04-08T17:28:17.55-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2010-04-08T17:28:18.097-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "3. Błąd pojawiający się czasem gdy próbuję uruchomić wtyczki",
+      "PostedDate": "2010-04-08T17:29:09.75-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2010-04-08T17:29:10.283-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-02-13T17:05:03.563-08:00",
+      "Id": -2147483648
+    }
+  ]
+}

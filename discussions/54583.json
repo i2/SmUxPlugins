@@ -1,0 +1,74 @@
+[
+  {
+    "Id": "184051",
+    "ThreadId": "54583",
+    "Html": "Zdaję sobie sprawę z tego, że to co napiszę to zapewne będzie bardzo ciężkie&nbsp; (a może i nierealne?) do wykonania, ale za razem bardzo przydatne i pomocne dla wielu osób <br>\r\nHeh a marzeniem to jest taki plugin, który np łączyłby się ze\r\nsłownikami internetowymi i pobierał dźwięki do słówek w bazie, którą\r\ntworzymy, albo chociaż za pomocą internetu odtwarzał nam wymowę :)<br>\r\n<br>\r\nPS Szkoda, że na stronie nie ma nic po polsku... \r\n",
+    "PostedDate": "2009-04-27T05:38:43.02-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "184237",
+    "ThreadId": "54583",
+    "Html": "I don't think this idea is unreal. If you try next version you will be able to check selected word in a few web dictionaries and download the selected word pronunciation for you.<br>\r\nAnd this is only the beginning...<br>\r\n<br>\r\nThanks for your feedback<br>\r\n",
+    "PostedDate": "2009-04-27T14:15:42.793-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "184238",
+    "ThreadId": "54583",
+    "Html": "This discussion has been copied to a work item. Click <a href=\"http://smuxplugins.codeplex.com/WorkItem/View.aspx?WorkItemId=825\">here</a> to go to the work item and continue the discussion.",
+    "PostedDate": "2009-04-27T14:17:55.263-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "187278",
+    "ThreadId": "54583",
+    "Html": "Bardzo fajna inicjatywa. Ja bym chciał aby można było samodzielnie w opcjach programu określać wysokość pól, żebym mógł sobie sam poszerzyć np. obszar &quot;polecenie ćwiczenia&quot;. Teraz kiedy pojawia się tam zbyt długi tekst w powtórkach jest to widoczne razem z suawkiem, mimo że pod spodem jest wystarczająca ilość miejsca nie zajętego przez inne pola.<br>\r\n<br>\r\nFajnie by było gdyby była taka opcja jak w Henrym, gdzie gdy dodajemy do bazy zdanie, w którym jest sprawdzana pisownia i do niego polskie tłumaczenie w innym polu, to ono może się pojawić zarówno w trybie sprawdzania pisowni jak i tłumaczenia z pl-ang. Zdaje się że, obecnie w supermemo ux (sprawdzałem ten darmowy) trzeba aby mieć taki efekt trzeba tworzyć dwie strony.<br>\r\n<br>\r\nPoza tym dobrze by było gdyby można było w opcjach programu określić żeby kontroler pisowni przyjmował zaznaczony tekst automatycznie jako prawidłową odpowiedź i żeby nie wyskakiwało za każdym razem to okienko. Można by je wywoływać opcjonalnie dodatkowo gdyby ktoś chciał dla np. synonimów dać więcej niż jedną prawidłową odpowiedź.<br>\r\n<br>\r\nPomysł intergacji ze słownikami jest super. Najlepiej gdyby można było z jakiegoś słownika przenieść wszystko do supermemo.<br>\r\n",
+    "PostedDate": "2009-05-06T02:46:44.557-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "188395",
+    "ThreadId": "54583",
+    "Html": "<p>Ok, wydzieliłem kilka temat&oacute;w z Twojego wpisu i dodaję je jako zadania do projektu:</p>\r\n<p>Temat 1.<br><em>Ja bym chciał aby można było samodzielnie w opcjach programu określać wysokość p&oacute;l, żebym m&oacute;gł sobie sam poszerzyć np. obszar &quot;polecenie ćwiczenia&quot;. Teraz kiedy pojawia się tam zbyt długi tekst w powt&oacute;rkach jest to widoczne razem z suawkiem, mimo że pod spodem jest wystarczająca ilość miejsca nie zajętego przez inne pola.<br></em><br>Temat 2.<br><em>Fajnie by było gdyby była taka opcja jak w Henrym, gdzie gdy dodajemy do bazy zdanie, w kt&oacute;rym jest sprawdzana pisownia i do niego polskie tłumaczenie w innym polu, to ono może się pojawić zar&oacute;wno w trybie sprawdzania pisowni jak i tłumaczenia z pl-ang.<br>To co chcesz osiągnąć dało by się załatwić mechanizmem szablon&oacute;w dodawania/importu jednostek.<br></em><br>Temat 3.<br><em>Poza tym dobrze by było gdyby można było w opcjach programu określić żeby kontroler pisowni przyjmował zaznaczony tekst automatycznie jako prawidłową odpowiedź i żeby nie wyskakiwało za każdym razem to okienko. Można by je wywoływać opcjonalnie dodatkowo gdyby ktoś chciał dla np. synonim&oacute;w dać więcej niż jedną prawidłową odpowiedź.<br></em><br>Temat 4.<br><em>Najlepiej gdyby można było z jakiegoś słownika przenieść wszystko do supermemo.</em></p>",
+    "PostedDate": "2009-05-09T02:03:07.697-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "188396",
+    "ThreadId": "54583",
+    "Html": "This discussion has been copied to a work item. Click <a href=\"http://smuxplugins.codeplex.com/WorkItem/View.aspx?WorkItemId=1117\">here</a> to go to the work item and continue the discussion.",
+    "PostedDate": "2009-05-09T02:04:28.81-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "188397",
+    "ThreadId": "54583",
+    "Html": "This discussion has been copied to a work item. Click <a href=\"http://smuxplugins.codeplex.com/WorkItem/View.aspx?WorkItemId=1118\">here</a> to go to the work item and continue the discussion.",
+    "PostedDate": "2009-05-09T02:05:47.293-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "188398",
+    "ThreadId": "54583",
+    "Html": "This discussion has been copied to a work item. Click <a href=\"http://smuxplugins.codeplex.com/WorkItem/View.aspx?WorkItemId=1119\">here</a> to go to the work item and continue the discussion.",
+    "PostedDate": "2009-05-09T02:09:23.15-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "188399",
+    "ThreadId": "54583",
+    "Html": "This discussion has been copied to a work item. Click <a href=\"http://smuxplugins.codeplex.com/WorkItem/View.aspx?WorkItemId=1120\">here</a> to go to the work item and continue the discussion.",
+    "PostedDate": "2009-05-09T02:11:03.693-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

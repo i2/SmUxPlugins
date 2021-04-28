@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "414822",
+    "ThreadId": "204009",
+    "Html": "<p>Hello,</p>\r\n<p>I installed it, but it doesn't work: I startet SuperMemoUX and after it I started Pluginsystem.exe and got an error message!</p>\r\n<p>- Can I have a readme file in english language?</p>\r\n<p>- Can you give me the workaround for a dictionary (e.g. I do this also with &quot;&lt;preview ref.....&quot; in item0000.xml or attritbute &quot;disabled=&quot;true&quot; in course.xml)</p>\r\n<p>&nbsp;</p>\r\n<p>Thank you very much.</p>\r\n<p>Regards</p>\r\n<p>HL</p>\r\n<p>&nbsp;</p>",
+    "PostedDate": "2010-03-05T16:13:08.347-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "414979",
+    "ThreadId": "204009",
+    "Html": "<p>If you send me the exact error message I will probably be able to help  you with your problem.<br>Do you have Microsoft Framework 3.5 installed? Do you have at least Internet Explorer 7.0 ?&nbsp;</p>",
+    "PostedDate": "2010-03-06T07:36:37.81-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

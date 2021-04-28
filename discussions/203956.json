@@ -1,0 +1,34 @@
+[
+  {
+    "Id": "414616",
+    "ThreadId": "203956",
+    "Html": "<p>Witam,</p>\r\n<p>Czy można prosić o &nbsp;tutorial lub przykłady na screenach do pobrania. Pojawiły się nowe funkcje wtyczek i nie bardzo wiem jak z nich korzystać np. zarządzanie stylami czy konfiguracja wtyczek. Poza tym mam pytanie czy gdy robiliście update sm ux do najnowszej wersji ze starszych czy poprawnie wam przeniosło postępy w nauce? Bo mi nie i cały czas korzystam z wersji 1332 ux. Wysyłałem maile do supermemo.pl ale nie odpowiadają. Może było by dobrym rozwiązaniem stworzenie jakieś alternatywnej opcji zapisu postęp&oacute;w w nauce razem z eksportem jednostek? Przy okazji przypominam o pomyśle żeby dodać taki pasek z opcjami edycji (czyli tego do czego jest dostęp za pomocą skr&oacute;t&oacute;w) w postaci jakiegoś paska z ikonkami, coś na wz&oacute;r tego jak tu przy pisaniu wiadomości najlepiej z opcją malarza format&oacute;w jak w Wordzie. Może m&oacute;głby się pokazywać w formie podobnej do tej ruchomej części do wystawiania ocen. ALbo np. opcja zaznaczenia tekstu wywołania jakiegoś koloru czcionki czy tła tak żeby to było w pamięci i żeby można zaznaczając następny tekst można było skr&oacute;tem z klawiatury automatycznie uzyskać ostatni styl (z zapamiętaniem rozmiaru czy wyboldowania koloru ...). O ile wydaje wam się to praktycznym rozwiązaniem. Mimo wszystkich dotychczasowych opcji formatowania malarz format&oacute;w by się przydał do mniej standardowych tekst&oacute;w, kt&oacute;re wymagają ręcznego formatowania. Wszystko zależy od tego jak robicie sobie bazę. Ja lubię wklejać po kilka r&oacute;żnych znaczeń ze słownika z przykładami zdań, dla danego sł&oacute;wka w pytaniu. Tzn. Uczę się jednocześnie r&oacute;żnych znaczeń dla danego słowa. A może dało by się dodać takie opcje styl&oacute;w jak tu&nbsp;http://tinymce.moxiecode.com/examples/full.php &nbsp; żeby był taki łatwy dostęp do kilku styl&oacute;w np. predefiniowanych dla definicji, przykład&oacute;w zdania, wymowy czy innych.</p>",
+    "PostedDate": "2010-03-05T07:34:02.71-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "414990",
+    "ThreadId": "203956",
+    "Html": "<p>Dużo temat&oacute;w, rozbiję odpowiedź na punkty:</p>\r\n<p>1. Z tutorialem lub przykładami jest problem - mamy mało zasob&oacute;w, ciągle szukamy chętnych do pomocy. Może ktoś miałby ochotę zrobić prostą stronę z opisem działania programu? W kwestiach technicznych możemy pom&oacute;c</p>\r\n<p>2. Problem, kt&oacute;ry opisywałeś z ux 1332 u mnie osobiście nie wystąpił, ale widziałem w wykazie zmian dla SM UX 1.4.5 podobny błąd - może to pomoże.</p>\r\n<p>3. W najnowszej wersji UX można eksportować/importować postępy nauki + automatycznie robić backup - rozumiem, że to rozwiązuje problem?</p>\r\n<p>4. Pasek przycisk&oacute;w dla edytora jest w planach (http://smuxplugins.codeplex.com/WorkItem/View.aspx?WorkItemId=4084)</p>\r\n<p>5. Ten scenariusz z wybieraniem powtarzających się kolor&oacute;w możesz spr&oacute;bować w międzyczasie obsłużyć stylami</p>",
+    "PostedDate": "2010-03-06T08:23:29.397-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "415143",
+    "ThreadId": "203956",
+    "Html": "\r\n\r\n<div class=Section1>\r\n\r\n<p class=MsoNormal>Funkcja stylów jest świetna, ale pomysł z powtarzaniem\r\nostatniego użytego stylu wydaje mi się bardzo funkcjonalny i może być jej\r\nbardzo dobrym uzupełnieniem. Będzie działał jak malarz formatów z Word. Dla\r\nnowej jednostki można by wybierać styl a potem go powtarzać dla np. kolejnych znaczeń\r\ndanego słówka, czy przykładów zdań.</p>\r\n\r\n</div>\r\n\r\n\r\n\r\n\r\n<table cellpadding=3 bgcolor=\"#ffffff\"><tbody><tr><td style=\"font:12px Courier New, Courier, monotype.com;padding:3px;background:#ffffff;color:#000000\">----------------------------------------------------------------------\r<br>\r\nWygraj z armia wampirow!\r<br>\r\nKliknij &gt;&gt;&gt; <a href=\"http://link.interia.pl/f23a0\">http://link.interia.pl/f23a0</a></td></tr></tbody></table>",
+    "PostedDate": "2010-03-07T04:44:15.917-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "415144",
+    "ThreadId": "203956",
+    "Html": "\r\n\r\n<div class=Section1>\r\n\r\n<p class=MsoNormal><span style=\"font-size:11.0pt;font-family:'Calibri','sans-serif';color:#1F497D\">Chodziło mi oczywiście o powtarzanie stylu podczas edycji\r\nwewnątrz pola „odpowiedź” dla danej jednostki.</span><span style=\"font-size:9.0pt;font-family:'Verdana','sans-serif';color:gray\"></span></p>\r\n\r\n</div>\r\n\r\n\r\n\r\n\r\n<table cellpadding=3 bgcolor=\"#ffffff\"><tbody><tr><td style=\"font:12px Courier New, Courier, monotype.com;padding:3px;background:#ffffff;color:#000000\">-------------------------------------------------\r<br>\r\nAtrakcyjne mieszkania i działki. Sprawdź oferty!\r<br>\r\n<a href=\"http://link.interia.pl/f260b\">http://link.interia.pl/f260b</a></td></tr></tbody></table>",
+    "PostedDate": "2010-03-07T04:48:05.86-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

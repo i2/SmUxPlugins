@@ -1,0 +1,179 @@
+﻿CLI: v.2.0.50727.5477
+System: Microsoft Windows NT 6.1.7601 Service Pack 1
+
+[2014-10-11 12:27:43, v1.4.10.1] System.IO.FileNotFoundException: Nie można załadować pliku lub zestawu 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' lub jednej z jego zależności. Nie można odnaleźć określonego pliku.
+Nazwa pliku: 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'
+   w SMW.data.database.SQLite.Close()
+   w SMW.Program.Main(String[] args)
+
+OSTRZEŻENIE: rejestrowanie informacji o powiązaniach zestaww jest wyłączone.
+Aby włączyć rejestrowanie błędw powiązań zestaww, ustaw wartość rejestru [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) rwną 1.
+Uwaga: z włączeniem rejestrowania błędw powiązań zestaww wiąże się pewien spadek wydajności.
+Aby wyłączyć tę funkcję, usuń wartość rejestru [HKLM\Software\Microsoft\Fusion!EnableLog].
+: Nie można załadować pliku lub zestawu 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' lub jednej z jego zależności. Nie można odnaleźć określonego pliku.
+   w SMW.data.database.SQLite.Close()
+   w SMW.Program.Main(String[] args)
+[2014-10-11 12:27:54, v1.4.10.1] System.IO.FileNotFoundException: Nie można załadować pliku lub zestawu 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' lub jednej z jego zależności. Nie można odnaleźć określonego pliku.
+Nazwa pliku: 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'
+   w SMW.data.database.SQLite.Close()
+   w SMW.Program.Main(String[] args)
+
+OSTRZEŻENIE: rejestrowanie informacji o powiązaniach zestaww jest wyłączone.
+Aby włączyć rejestrowanie błędw powiązań zestaww, ustaw wartość rejestru [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) rwną 1.
+Uwaga: z włączeniem rejestrowania błędw powiązań zestaww wiąże się pewien spadek wydajności.
+Aby wyłączyć tę funkcję, usuń wartość rejestru [HKLM\Software\Microsoft\Fusion!EnableLog].
+: Nie można załadować pliku lub zestawu 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' lub jednej z jego zależności. Nie można odnaleźć określonego pliku.
+   w SMW.data.database.SQLite.Close()
+   w SMW.Program.Main(String[] args)
+[2014-10-11 12:29:09, v1.4.10.1] System.IO.FileNotFoundException: Nie można załadować pliku lub zestawu 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' lub jednej z jego zależności. Nie można odnaleźć określonego pliku.
+Nazwa pliku: 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'
+   w SMW.data.database.SQLite.Close()
+   w SMW.Program.Main(String[] args)
+
+OSTRZEŻENIE: rejestrowanie informacji o powiązaniach zestaww jest wyłączone.
+Aby włączyć rejestrowanie błędw powiązań zestaww, ustaw wartość rejestru [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) rwną 1.
+Uwaga: z włączeniem rejestrowania błędw powiązań zestaww wiąże się pewien spadek wydajności.
+Aby wyłączyć tę funkcję, usuń wartość rejestru [HKLM\Software\Microsoft\Fusion!EnableLog].
+: Nie można załadować pliku lub zestawu 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' lub jednej z jego zależności. Nie można odnaleźć określonego pliku.
+   w SMW.data.database.SQLite.Close()
+   w SMW.Program.Main(String[] args)
+[2014-10-11 12:30:53, v1.4.10.1] System.IO.FileNotFoundException: Nie można załadować pliku lub zestawu 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' lub jednej z jego zależności. Nie można odnaleźć określonego pliku.
+Nazwa pliku: 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'
+   w SMW.data.database.SQLite.Close()
+   w SMW.Program.Main(String[] args)
+
+OSTRZEŻENIE: rejestrowanie informacji o powiązaniach zestaww jest wyłączone.
+Aby włączyć rejestrowanie błędw powiązań zestaww, ustaw wartość rejestru [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) rwną 1.
+Uwaga: z włączeniem rejestrowania błędw powiązań zestaww wiąże się pewien spadek wydajności.
+Aby wyłączyć tę funkcję, usuń wartość rejestru [HKLM\Software\Microsoft\Fusion!EnableLog].
+: Nie można załadować pliku lub zestawu 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' lub jednej z jego zależności. Nie można odnaleźć określonego pliku.
+   w SMW.data.database.SQLite.Close()
+   w SMW.Program.Main(String[] args)
+[2014-10-11 12:32:14, v1.4.10.1] System.IO.FileNotFoundException: Nie można załadować pliku lub zestawu 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' lub jednej z jego zależności. Nie można odnaleźć określonego pliku.
+Nazwa pliku: 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'
+   w SMW.data.database.SQLite.Close()
+   w SMW.Program.Main(String[] args)
+
+OSTRZEŻENIE: rejestrowanie informacji o powiązaniach zestaww jest wyłączone.
+Aby włączyć rejestrowanie błędw powiązań zestaww, ustaw wartość rejestru [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) rwną 1.
+Uwaga: z włączeniem rejestrowania błędw powiązań zestaww wiąże się pewien spadek wydajności.
+Aby wyłączyć tę funkcję, usuń wartość rejestru [HKLM\Software\Microsoft\Fusion!EnableLog].
+: Nie można załadować pliku lub zestawu 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' lub jednej z jego zależności. Nie można odnaleźć określonego pliku.
+   w SMW.data.database.SQLite.Close()
+   w SMW.Program.Main(String[] args)
+[2014-10-11 12:32:26, v1.4.10.1] System.IO.FileNotFoundException: Nie można załadować pliku lub zestawu 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' lub jednej z jego zależności. Nie można odnaleźć określonego pliku.
+Nazwa pliku: 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'
+   w SMW.data.database.SQLite.Close()
+   w SMW.Program.Main(String[] args)
+
+OSTRZEŻENIE: rejestrowanie informacji o powiązaniach zestaww jest wyłączone.
+Aby włączyć rejestrowanie błędw powiązań zestaww, ustaw wartość rejestru [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) rwną 1.
+Uwaga: z włączeniem rejestrowania błędw powiązań zestaww wiąże się pewien spadek wydajności.
+Aby wyłączyć tę funkcję, usuń wartość rejestru [HKLM\Software\Microsoft\Fusion!EnableLog].
+: Nie można załadować pliku lub zestawu 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' lub jednej z jego zależności. Nie można odnaleźć określonego pliku.
+   w SMW.data.database.SQLite.Close()
+   w SMW.Program.Main(String[] args)
+[2014-10-11 12:32:43, v1.4.10.1] System.IO.FileNotFoundException: Nie można załadować pliku lub zestawu 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' lub jednej z jego zależności. Nie można odnaleźć określonego pliku.
+Nazwa pliku: 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'
+   w SMW.data.database.SQLite.Close()
+   w SMW.Program.Main(String[] args)
+
+OSTRZEŻENIE: rejestrowanie informacji o powiązaniach zestaww jest wyłączone.
+Aby włączyć rejestrowanie błędw powiązań zestaww, ustaw wartość rejestru [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) rwną 1.
+Uwaga: z włączeniem rejestrowania błędw powiązań zestaww wiąże się pewien spadek wydajności.
+Aby wyłączyć tę funkcję, usuń wartość rejestru [HKLM\Software\Microsoft\Fusion!EnableLog].
+: Nie można załadować pliku lub zestawu 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' lub jednej z jego zależności. Nie można odnaleźć określonego pliku.
+   w SMW.data.database.SQLite.Close()
+   w SMW.Program.Main(String[] args)
+[2014-10-11 12:35:58, v1.4.10.1] System.IO.FileNotFoundException: Nie można załadować pliku lub zestawu 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' lub jednej z jego zależności. Nie można odnaleźć określonego pliku.
+Nazwa pliku: 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'
+   w SMW.data.database.SQLite.Close()
+   w SMW.Program.Main(String[] args)
+
+OSTRZEŻENIE: rejestrowanie informacji o powiązaniach zestaww jest wyłączone.
+Aby włączyć rejestrowanie błędw powiązań zestaww, ustaw wartość rejestru [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) rwną 1.
+Uwaga: z włączeniem rejestrowania błędw powiązań zestaww wiąże się pewien spadek wydajności.
+Aby wyłączyć tę funkcję, usuń wartość rejestru [HKLM\Software\Microsoft\Fusion!EnableLog].
+: Nie można załadować pliku lub zestawu 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' lub jednej z jego zależności. Nie można odnaleźć określonego pliku.
+   w SMW.data.database.SQLite.Close()
+   w SMW.Program.Main(String[] args)
+[2014-10-11 12:41:25, v1.4.10.1] System.IO.FileNotFoundException: Nie można załadować pliku lub zestawu 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' lub jednej z jego zależności. Nie można odnaleźć określonego pliku.
+Nazwa pliku: 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'
+   w SMW.data.database.SQLite.Close()
+   w SMW.Program.Main(String[] args)
+
+OSTRZEŻENIE: rejestrowanie informacji o powiązaniach zestaww jest wyłączone.
+Aby włączyć rejestrowanie błędw powiązań zestaww, ustaw wartość rejestru [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) rwną 1.
+Uwaga: z włączeniem rejestrowania błędw powiązań zestaww wiąże się pewien spadek wydajności.
+Aby wyłączyć tę funkcję, usuń wartość rejestru [HKLM\Software\Microsoft\Fusion!EnableLog].
+: Nie można załadować pliku lub zestawu 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' lub jednej z jego zależności. Nie można odnaleźć określonego pliku.
+   w SMW.data.database.SQLite.Close()
+   w SMW.Program.Main(String[] args)
+[2014-10-11 12:50:51, v1.4.10.1] System.IO.FileNotFoundException: Nie można załadować pliku lub zestawu 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' lub jednej z jego zależności. Nie można odnaleźć określonego pliku.
+Nazwa pliku: 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'
+   w SMW.data.database.SQLite.Close()
+   w SMW.Program.Main(String[] args)
+
+OSTRZEŻENIE: rejestrowanie informacji o powiązaniach zestaww jest wyłączone.
+Aby włączyć rejestrowanie błędw powiązań zestaww, ustaw wartość rejestru [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) rwną 1.
+Uwaga: z włączeniem rejestrowania błędw powiązań zestaww wiąże się pewien spadek wydajności.
+Aby wyłączyć tę funkcję, usuń wartość rejestru [HKLM\Software\Microsoft\Fusion!EnableLog].
+: Nie można załadować pliku lub zestawu 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' lub jednej z jego zależności. Nie można odnaleźć określonego pliku.
+   w SMW.data.database.SQLite.Close()
+   w SMW.Program.Main(String[] args)
+[2014-10-11 12:58:41, v1.4.10.1] System.IO.FileNotFoundException: Nie można załadować pliku lub zestawu 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' lub jednej z jego zależności. Nie można odnaleźć określonego pliku.
+Nazwa pliku: 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'
+   w SMW.data.database.SQLite.Close()
+   w SMW.Program.Main(String[] args)
+
+Menedżer zestaww załadowany z:  C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorwks.dll
+Uruchamianie z pliku wykonywalnego D:\Learning\Languages\Extremes Deutsch Multi\SuperMemo UX\supermemo.exe
+--- Poniżej szczegłowy dziennik błędw. 
+
+=== Informacje o stanie sprzed powiązania ===
+DZIENNIK: User = Johny-5\Chris
+DZIENNIK: DisplayName = System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+ (Fully-specified)
+DZIENNIK: Appbase = file:///D:/Learning/Languages/Extremes Deutsch Multi/SuperMemo UX/
+DZIENNIK: Initial PrivatePath = NULL
+Zestaw wywołujący: System.Data.SQLite, Version=1.0.65.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139.
+===
+DZIENNIK: to powiązanie zaczyna się w kontekście ładowania default.
+DZIENNIK: użycie pliku konfiguracyjnego aplikacji: D:\Learning\Languages\Extremes Deutsch Multi\SuperMemo UX\supermemo.exe.Config
+DZIENNIK: użycie pliku konfiguracyjnego komputera z C:\Windows\Microsoft.NET\Framework\v2.0.50727\config\machine.config.
+DZIENNIK: odwołanie po zastosowaniu zasad: System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+DZIENNIK: prba pobrania nowego adresu URL file:///D:/Learning/Languages/Extremes Deutsch Multi/SuperMemo UX/System.Data.DLL.
+DZIENNIK: prba pobrania nowego adresu URL file:///D:/Learning/Languages/Extremes Deutsch Multi/SuperMemo UX/System.Data/System.Data.DLL.
+DZIENNIK: prba pobrania nowego adresu URL file:///D:/Learning/Languages/Extremes Deutsch Multi/SuperMemo UX/System.Data.EXE.
+DZIENNIK: prba pobrania nowego adresu URL file:///D:/Learning/Languages/Extremes Deutsch Multi/SuperMemo UX/System.Data/System.Data.EXE.
+: Nie można załadować pliku lub zestawu 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' lub jednej z jego zależności. Nie można odnaleźć określonego pliku.
+   w SMW.data.database.SQLite.Close()
+   w SMW.Program.Main(String[] args)
+[2014-10-11 13:07:48, v1.4.10.1] System.IO.FileNotFoundException: Nie można załadować pliku lub zestawu 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' lub jednej z jego zależności. Nie można odnaleźć określonego pliku.
+Nazwa pliku: 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'
+   w SMW.data.database.SQLite.Close()
+   w SMW.Program.Main(String[] args)
+
+Menedżer zestaww załadowany z:  C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorwks.dll
+Uruchamianie z pliku wykonywalnego D:\Learning\Languages\Extremes Deutsch Multi\SuperMemo UX\supermemo.exe
+--- Poniżej szczegłowy dziennik błędw. 
+
+=== Informacje o stanie sprzed powiązania ===
+DZIENNIK: User = Johny-5\Chris
+DZIENNIK: DisplayName = System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+ (Fully-specified)
+DZIENNIK: Appbase = file:///D:/Learning/Languages/Extremes Deutsch Multi/SuperMemo UX/
+DZIENNIK: Initial PrivatePath = NULL
+Zestaw wywołujący: System.Data.SQLite, Version=1.0.65.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139.
+===
+DZIENNIK: to powiązanie zaczyna się w kontekście ładowania default.
+DZIENNIK: użycie pliku konfiguracyjnego aplikacji: D:\Learning\Languages\Extremes Deutsch Multi\SuperMemo UX\supermemo.exe.Config
+DZIENNIK: użycie pliku konfiguracyjnego komputera z C:\Windows\Microsoft.NET\Framework\v2.0.50727\config\machine.config.
+DZIENNIK: odwołanie po zastosowaniu zasad: System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+DZIENNIK: prba pobrania nowego adresu URL file:///D:/Learning/Languages/Extremes Deutsch Multi/SuperMemo UX/System.Data.DLL.
+DZIENNIK: prba pobrania nowego adresu URL file:///D:/Learning/Languages/Extremes Deutsch Multi/SuperMemo UX/System.Data/System.Data.DLL.
+DZIENNIK: prba pobrania nowego adresu URL file:///D:/Learning/Languages/Extremes Deutsch Multi/SuperMemo UX/System.Data.EXE.
+DZIENNIK: prba pobrania nowego adresu URL file:///D:/Learning/Languages/Extremes Deutsch Multi/SuperMemo UX/System.Data/System.Data.EXE.
+: Nie można załadować pliku lub zestawu 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' lub jednej z jego zależności. Nie można odnaleźć określonego pliku.
+   w SMW.data.database.SQLite.Close()
+   w SMW.Program.Main(String[] args)

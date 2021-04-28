@@ -1,0 +1,32 @@
+﻿CLI: v.2.0.50727.3603
+System: Microsoft Windows NT 5.1.2600 Dodatek Service Pack 3
+
+[2010-04-08 16:24:09, v1.4.5] System.InvalidOperationException: Podczas wykonywania polecenia MCI: save capture {0} wystąpił błąd nr: 295
+   w MediaFiles.Sound.Recorder.SendMCICommand(Boolean ignoreError, String command, Object[] p)
+   w MediaFiles.Sound.Recorder.SendMCICommand(String command, Object[] p)
+   w MediaFiles.Sound.Recorder.StopRecording()
+   w MediaFiles.DlgRecording.BtnOkClick(Object sender, EventArgs e)
+   w System.Windows.Forms.Control.OnClick(EventArgs e)
+   w System.Windows.Forms.Button.OnClick(EventArgs e)
+   w System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   w System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   w System.Windows.Forms.Control.WndProc(Message& m)
+   w System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   w System.Windows.Forms.Button.WndProc(Message& m)
+   w System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   w System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   w System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam): Podczas wykonywania polecenia MCI: save capture {0} wystąpił błąd nr: 295
+   w MediaFiles.Sound.Recorder.SendMCICommand(Boolean ignoreError, String command, Object[] p)
+   w MediaFiles.Sound.Recorder.SendMCICommand(String command, Object[] p)
+   w MediaFiles.Sound.Recorder.StopRecording()
+   w MediaFiles.DlgRecording.BtnOkClick(Object sender, EventArgs e)
+   w System.Windows.Forms.Control.OnClick(EventArgs e)
+   w System.Windows.Forms.Button.OnClick(EventArgs e)
+   w System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   w System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   w System.Windows.Forms.Control.WndProc(Message& m)
+   w System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   w System.Windows.Forms.Button.WndProc(Message& m)
+   w System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   w System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   w System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)

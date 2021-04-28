@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Przy próbie nagrania dźwięku, po tym, jak w otwartym oknie Nagrywanie nacisnę OK bądź Anuluj, wyskakuje dialog błędu, o następującej treści:\n\"Application Error\nAn error occurred:\nSystem.InvalidOperationException:Podczas wykonywania polecenia MCI: save capture{0} wystąpił błąd nr 295\"\ni program się zamyka.",
+    "LastUpdatedDate": "2013-02-13T17:05:04.95-08:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "SmUxPlugins",
+    "ReportedDate": "2010-01-30T05:38:35.563-08:00",
+    "Status": {
+      "Name": "Proposed",
+      "Id": 1
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Problem z nagrywaniem",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 1,
+    "Id": 3755
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

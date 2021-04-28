@@ -1,0 +1,55 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2009-07-25T06:20:54.873-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Kolejnosc jednostek w ramach rozdzialu, po zaimportowaniu, nie zgadza sie z oryginalem. Przydalaby sie obsluga nazw jednostek (nazw ktore wyswietlaja sie w spisie tresci kursu).",
+    "LastUpdatedDate": "2013-05-15T22:15:34.383-07:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "SmUxPlugins",
+    "ReportedDate": "2009-07-22T03:10:54.36-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "import z SmUxPack",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 1,
+    "Id": 1839
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "Resolved with changeset 24406.",
+      "PostedDate": "2009-07-25T06:20:54.873-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-02-13T17:05:05.917-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-05-15T22:15:34.383-07:00",
+      "Id": -2147483648
+    }
+  ]
+}

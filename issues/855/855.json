@@ -1,0 +1,60 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2009-05-04T10:10:54.48-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Now you can look up word in a few most popular dicionaries. In the future user should be able to add his own dicionaries.",
+    "LastUpdatedDate": "2013-05-15T22:15:36.12-07:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "SmUxPlugins",
+    "ReportedDate": "2009-04-28T11:48:07.5-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Configuration for dictionary look up",
+    "Type": {
+      "Name": "Feature",
+      "Id": 1
+    },
+    "VoteCount": 1,
+    "Id": 855
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "Associated with changeset 11411.",
+      "PostedDate": "2009-04-28T15:15:24.933-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "Resolved with changeset 13537.",
+      "PostedDate": "2009-05-04T10:10:54.48-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-02-13T17:05:09.223-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-05-15T22:15:36.12-07:00",
+      "Id": -2147483648
+    }
+  ]
+}

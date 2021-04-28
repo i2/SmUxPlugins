@@ -1,0 +1,30 @@
+﻿CLI: v.2.0.50727.3603
+System: Microsoft Windows NT 5.1.2600 Dodatek Service Pack 3
+
+[2010-04-08 16:31:42, v1.4.5] System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w PluginSystem.Helpers.ReflectionHelper.GetPropertyValue(Object o, String fieldName)
+   w PluginSystem.API.SuperMemo.GetPageAsHtml()
+   w Navigation.ClickableElementsNavigation.get_Enabled()
+   w PluginSystem.SuperMemoInjection.ExecuteShortcut(Keys keyData)
+   w PluginSystem.Common.MessageFilter.PreFilterMessage(Message& m)
+   w System.Windows.Forms.Application.ThreadContext.ProcessFilters(MSG& msg, Boolean& modified)
+   w System.Windows.Forms.Application.ThreadContext.PreTranslateMessage(MSG& msg)
+   w System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FPreTranslateMessage(MSG& msg)
+   w System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(Int32 dwComponentID, Int32 reason, Int32 pvLoopData)
+   w System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   w System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   w System.Windows.Forms.Application.Run(Form mainForm)
+   w SMW.Program.Main(String[] args): Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w PluginSystem.Helpers.ReflectionHelper.GetPropertyValue(Object o, String fieldName)
+   w PluginSystem.API.SuperMemo.GetPageAsHtml()
+   w Navigation.ClickableElementsNavigation.get_Enabled()
+   w PluginSystem.SuperMemoInjection.ExecuteShortcut(Keys keyData)
+   w PluginSystem.Common.MessageFilter.PreFilterMessage(Message& m)
+   w System.Windows.Forms.Application.ThreadContext.ProcessFilters(MSG& msg, Boolean& modified)
+   w System.Windows.Forms.Application.ThreadContext.PreTranslateMessage(MSG& msg)
+   w System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FPreTranslateMessage(MSG& msg)
+   w System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(Int32 dwComponentID, Int32 reason, Int32 pvLoopData)
+   w System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   w System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   w System.Windows.Forms.Application.Run(Form mainForm)
+   w SMW.Program.Main(String[] args)

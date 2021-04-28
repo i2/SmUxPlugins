@@ -1,0 +1,66 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "Fixed",
+    "ClosedDate": "2010-02-14T12:18:04.073-08:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Przy próbie dodania jednostki wg. szablonu pojawia się poniższy komunikat, a po naciśnięciu OK okno programu zamyka się:\nSystem.NullReferenceException:Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.\nw Templates.Template.get_ItemNumber()\nw Templates.template.get_TagsInfo()\nw Templates.TemplateBaseItem.PrepareFields(Template template, TableLayoutPanel tableLayoutPanel, IDictionary'2 fieldEditors)\nw Templates.DlgAddTemplateItem.cbxTemplates_SelectedIndexChanged(Object sender, EventArgs e)\nw System.Windows.Forms.comboBox.OnSelectedIndexChanged(EventArgs e)\nw System.Windows.Forms.ComboBox.set_SelectedIndex(Int32 value)\nw Templates.DlgAddTemplateBasedItem..ctor()\nw Templates.AddTemplateBasedItem.Execute()\nw PluginSystem.superMemoInjection.MenuItemClickEventHandler(Object sender, EventArgs args)\n \n---\nMam zainstalowane SM UX w wersji SM 1.4.3.2\nMs Framework 3.5\nSystem wtyczek w wersji 1.9.0.0",
+    "LastUpdatedDate": "2013-05-15T22:15:33.56-07:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "SmUxPlugins",
+    "ReportedDate": "2010-01-31T04:49:43.157-08:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Problem z dodawaniem jednostek wg. szablonu",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 1,
+    "Id": 3760
+  },
+  "FileAttachments": [
+    {
+      "FileId": 1258,
+      "FileName": "screen.png",
+      "DownloadUrl": ".\\1258"
+    }
+  ],
+  "Comments": [
+    {
+      "Message": "Corrected in the latest version (planned as 2.0.0.0)",
+      "PostedDate": "2010-02-09T11:12:27.823-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2010-02-14T12:18:04.073-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-02-13T17:05:04.667-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-05-15T22:15:33.56-07:00",
+      "Id": -2147483648
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "Id": "272891",
+    "ThreadId": "79689",
+    "Html": "<p>Czy ktoś orientuje się, w jaki spos&oacute;b można edytować plik course.smpak będący podstawą każdego kursu? Wtyczka SM UX pozwala na przeglądanie zawartości, ale nie można tego edytować i zmieniać. Wolałbym jednak znać jakiś spos&oacute;b, aby bez wtyczki mieć do niego dostęp. Jakieś propozycje? Na pewno Pan Michał zna spos&oacute;b, ale czy się nim podzieli? :-)</p>",
+    "PostedDate": "2010-01-04T06:53:02.573-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "283711",
+    "ThreadId": "79689",
+    "Html": "<p>Możesz natomiast edytować zamkniętą bazę korzystając z funkcji: Shift+F9: Tryb edycji (dla bazy komercyjnej)</p>\r\n<p>&nbsp;</p>",
+    "PostedDate": "2010-01-30T11:55:01.827-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "283721",
+    "ThreadId": "79689",
+    "Html": "<p>To nie działa z nowymi bazami. Np nie można edytować &quot;phrasal verbs&quot;, &quot;irregular verbs&quot; itp kt&oacute;re są dołączone do &quot;Extreme English Grammar and Idioms in Use&quot;</p>\r\n<h1 style=\"text-align:left;font-weight:normal;padding-left:7px;margin-top:17px;font-family:Verdana, 'Trebuchet MS', Geneva, Arial, Helvetica, sans-serif;font-size:28px;color:#666666;margin-bottom:35px\"></h1>",
+    "PostedDate": "2010-01-30T12:44:04.68-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "283724",
+    "ThreadId": "79689",
+    "Html": "<p>Te bazy, kt&oacute;re wymieniłeś mają format otwarty, można je edytować bez ograniczeń korzystając ze zwykłego F9</p>\r\n<p>&nbsp;</p>",
+    "PostedDate": "2010-01-30T12:46:36.217-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "283742",
+    "ThreadId": "79689",
+    "Html": "<p>Racja, nie zwr&oacute;ciłem uwagi na to. Dzięki :)</p>",
+    "PostedDate": "2010-01-30T13:29:28.28-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "284980",
+    "ThreadId": "79689",
+    "Html": "<p>Ale jak? W jakim programie?</p>\r\n<p>&nbsp;</p>",
+    "PostedDate": "2010-02-02T14:21:00.733-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "414991",
+    "ThreadId": "79689",
+    "Html": "<p>Bazy oryginalne, zapisane w plikach smpack są zablokowane do edycji - ale stosując wtyczki można ominąć ten problem</p>\r\n<p>Bazy oryginalne, posiadające jednostki *.xml w podkatalogach course można normalnie edytować bez jakichkolwiek dodatk&oacute;w w czystym SuperMemo UX</p>\r\n<div style=\"width:460px;height:100%;top:0px;right:0px;padding-left:0px;background-color:white;z-index:1000;display:none;border:0px 0px 0px 1px solid black\">\r\n<div style=\"top:1px;width:100%;height:42px;border:0px none\">&lt;form&gt;\r\n<div style=\"left:2px;right:0px\">&lt;input id=&quot;LIU_txt&quot; style=&quot;left: 0px; right: 240px; font-size: 14px ! important; height: 17px ! important; line-height: 50px; display: block; border: 1px solid black; padding: 0pt; margin: 0pt;&quot; /&gt;&lt;select id=&quot;LIU_sel&quot; style=&quot;width: 100px; right: 138px; font-size: 14px ! important; height: 17px; border: 1px solid black; padding: 0pt; margin: 0pt;&quot;&gt;&lt;option style=&quot;width: 30%; height: 19px; border: 0pt none;&quot;&gt;Wictionary&lt;/option&gt;&lt;option style=&quot;width: 30%; height: 19px; border: 0pt none;&quot;&gt;Chambers (UK)&lt;/option&gt;&lt;option style=&quot;width: 30%; height: 19px; border: 0pt none;&quot;&gt;The Free Dictionary&lt;/option&gt;&lt;option style=&quot;width: 30%; height: 19px; border: 0pt none;&quot;&gt;WordNet&lt;/option&gt;&lt;option style=&quot;width: 30%; height: 19px; border: 0pt none;&quot;&gt;Urban Dictionary&lt;/option&gt;&lt;option style=&quot;width: 30%; height: 19px; border: 0pt none;&quot;&gt;Answers.com&lt;/option&gt;&lt;option style=&quot;width: 30%; height: 19px; border: 0pt none;&quot;&gt;rhymezone.com&lt;/option&gt;&lt;option style=&quot;width: 30%; height: 19px; border: 0pt none;&quot;&gt;Merriam-Webster&lt;/option&gt;&lt;option style=&quot;width: 30%; height: 19px; border: 0pt none;&quot;&gt;Dict.pl&lt;/option&gt;&lt;option style=&quot;width: 30%; height: 19px; border: 0pt none;&quot;&gt;MegaSłownik&lt;/option&gt;&lt;/select&gt;&lt;input id=&quot;LIU_search&quot; style=&quot;width: 68px; padding: 0pt; right: 68px; font-size: 14px ! important; height: 19px; border: 1px solid black;&quot; type=&quot;submit&quot; value=&quot;Search&quot; /&gt;&lt;button id=&quot;LIU_prev&quot; style=&quot;width: 20px; padding: 0pt; right: 46px; height: 19px; border: 1px solid black;&quot;&gt;&lt;&lt;/button&gt;&lt;button id=&quot;LIU_next&quot; style=&quot;width: 20px; padding: 0pt; right: 24px; height: 19px; border: 1px solid black;&quot;&gt;&gt;&lt;/button&gt;&lt;button id=&quot;LIU_mode&quot; style=&quot;width: 20px; padding: 0pt; right: 2px; height: 19px; border: 1px solid black;&quot;&gt;0&lt;/button&gt;</div>\r\n<div style=\"left:2px;right:0px;top:22px\">&lt;button id=&quot;LIU_0&quot; style=&quot;width: 20px; padding: 0pt; margin-right: 2px; height: 19px; border: 1px solid black; background-color: #dddddd;&quot;&gt;v&lt;/button&gt;&lt;button id=&quot;LIU_1&quot; style=&quot;width: 20px; padding: 0pt; margin-right: 2px; height: 19px; border: 1px solid black; background-color: #dddddd;&quot;&gt;c&lt;/button&gt;&lt;button id=&quot;LIU_2&quot; style=&quot;width: 20px; padding: 0pt; margin-right: 2px; height: 19px; border: 1px solid black; background-color: #dddddd;&quot;&gt;f&lt;/button&gt;&lt;button id=&quot;LIU_3&quot; style=&quot;width: 20px; padding: 0pt; margin-right: 2px; height: 19px; border: 1px solid black; background-color: #dddddd;&quot;&gt;o&lt;/button&gt;&lt;button id=&quot;LIU_4&quot; style=&quot;width: 20px; padding: 0pt; margin-right: 2px; height: 19px; border: 1px solid black; background-color: #dddddd;&quot;&gt;u&lt;/button&gt;&lt;button id=&quot;LIU_5&quot; style=&quot;width: 20px; padding: 0pt; margin-right: 2px; height: 19px; border: 1px solid black; background-color: #dddddd;&quot;&gt;a&lt;/button&gt;&lt;button id=&quot;LIU_6&quot; style=&quot;width: 20px; padding: 0pt; margin-right: 2px; height: 19px; border: 1px solid black; background-color: #dddddd;&quot;&gt;r&lt;/button&gt;&lt;button id=&quot;LIU_7&quot; style=&quot;width: 20px; padding: 0pt; margin-right: 2px; height: 19px; border: 1px solid black; background-color: #dddddd;&quot;&gt;b&lt;/button&gt;&lt;button id=&quot;LIU_8&quot; style=&quot;width: 20px; padding: 0pt; margin-right: 2px; height: 19px; background-color: white; border: 1px solid black black white;&quot;&gt;s&lt;/button&gt;&lt;button id=&quot;LIU_9&quot; style=&quot;width: 20px; padding: 0pt; margin-right: 2px; height: 19px; border: 1px solid black; background-color: #dddddd;&quot;&gt;m&lt;/button&gt;</div>\r\n&lt;/form&gt;</div>\r\n</div>",
+    "PostedDate": "2010-03-06T08:25:04.787-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <lesson-title>[Field="Lesson",History] </lesson-title>
+  <chapter-title>[Field="Chapter",History]</chapter-title>
+  <question-title>[Field="Exercise explaination",History]</question-title>
+  <question>[Field="Question",Required]</question>
+  <answer>[Field="Answer",Required][BlockBegin="pron"] <span style="color: #ff8040">/[Field ="Pronunciation",IfEmptyRemoveBlock="pron"]/</span>[BlockEnd="pron"] </answer>
+  <modified>2009-06-20</modified>
+  <template-id>12</template-id>
+</item>

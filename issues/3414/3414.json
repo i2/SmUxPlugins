@@ -1,0 +1,60 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Postępuję zgodnie z instrukcją.\nAby uruchomić SuperMemoPlugins należy:\n1. Rozpakować zawartość pliku ZIP do katalogu z SuperMemoUx (zwykle c:\\Program Files\\SuperMemo UX)\n2. Uruchomić SuperMemo Ux\n3. Uruchomić PluginSystem.exe\nKiedy przechodzę do 3 punktu pojawia się taki błąd:\n---------------------------\nApplication Error\n---------------------------\nAn error occurred:\n \nSystem.Reflection.TargetInvocationException: Obiekt docelowy wywołania zgłosił wyjątek. ---> System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.\n---------------------------\nOK   \n---------------------------\nDodam, że mam zainstalowane Internet Explorer 8.0 i  Microsoft .NET Framework 3.5",
+    "LastUpdatedDate": "2013-02-13T17:05:05.21-08:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "SmUxPlugins",
+    "ReportedDate": "2010-01-10T05:56:43.797-08:00",
+    "Status": {
+      "Name": "Proposed",
+      "Id": 1
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Obiekt docelowy wywołania zgłosił wyjątek. ---> System.NullReferenceException",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 1,
+    "Id": 3414
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "Również tak mam, jeśli odpalę plugin tuż po uruchomieniu SM UX. Ale zrób tak: uruchom program SM UX, później kliknij na jakiś kurs na stronie głównej i dopiero wtedy plugin - tak mi działa i w głównym oknie programu mam dodatkowe menu Wtyczki",
+      "PostedDate": "2010-01-22T00:57:35.077-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "Zrobibiłem to, co proponował boryn. Nadal problem: Obiekt docelowy wywołania zgłosił wyjątek. ---> System.InvaliCastException: Nie można rzutować obiektu modelu COM typu 'System.__ComObject' na typ klasy 'mshtml.HTMLDocumentClass.'\r\n\r\nCo mam teraz robić?",
+      "PostedDate": "2010-01-22T10:57:45.35-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "Hello boryn,\r\n\r\n<<Również tak mam, jeśli odpalę plugin tuż po uruchomieniu SM UX. Ale zrób tak: uruchom program SM UX, później kliknij na jakiś kurs na stronie głównej i dopiero wtedy plugin - tak mi działa i w głównym oknie programu mam dodatkowe menu Wtyczki>>\r\n\r\nCan you write this in english?? That would be very nice, because I think I have the same problem.... but can't understand what you have written. Thank you very much.\r\n\r\nRegards\r\nHL",
+      "PostedDate": "2010-03-06T02:04:32.613-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-02-13T17:05:05.21-08:00",
+      "Id": -2147483648
+    }
+  ]
+}

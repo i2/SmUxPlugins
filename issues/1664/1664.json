@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "introduced in 1.7.0.0 version",
+    "ClosedDate": "2009-07-19T03:07:29.813-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Possibility to set title, lesson name, chapter name and so on for many items at once.",
+    "LastUpdatedDate": "2013-05-15T22:15:34.813-07:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "SmUxPlugins",
+    "ReportedDate": "2009-06-27T03:46:34.99-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Multi edit",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 1,
+    "Id": 1664
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

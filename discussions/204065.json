@@ -1,0 +1,50 @@
+[
+  {
+    "Id": "415071",
+    "ThreadId": "204065",
+    "Html": "<p><span style=\"color:#800080\">czy jest możliwość zamiany języka pytania na język odpowiedzi? tzn. odwr&oacute;cenia q/a bez konieczności wpisywania wszystkich sł&oacute;wek raz jeszcze?</span></p>\r\n<p><span style=\"color:#800080\">pr&oacute;bowałam znaleźć cokolwiek na ten temat w wielu miejscach, ale nigdzie nie znalazłam odpowiedzi jak to zrobić.</span></p>\r\n<p><span style=\"color:#800080\">z g&oacute;ry dziękuję za odpowiedź.</span></p>\r\n<p><span style=\"color:#800080\">jk<br></span></p>",
+    "PostedDate": "2010-03-06T15:28:25.193-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "415127",
+    "ThreadId": "204065",
+    "Html": "<p>Można to łatwo uzyskać z wtyczkami w następujący spos&oacute;b:</p>\r\n<p>1. Stajesz na jednostce, dla kt&oacute;rej chcesz zrobić odwr&oacute;coną kopię</p>\r\n<p>2. Naciskasz Ctrl+C stojąc w drzewie jednostek. Potem Ctrl+V i mamy kopię aktualnej jednostki</p>\r\n<p>3. Przechodzimy do kopi PgDwn</p>\r\n<p>4. Wybieramy Ctrl+F2 (Wtyczki\\Jednostki\\Zamień pytanie z odpowiedzią)</p>\r\n<div style=\"width:460px;height:100%;top:0px;right:0px;padding-left:0px;background-color:white;z-index:1000;display:none;border:0px 0px 0px 1px solid black\">\r\n<div style=\"top:1px;width:100%;height:42px;border:0px none\">&lt;form&gt;\r\n<div style=\"left:2px;right:0px\">&lt;input id=&quot;LIU_txt&quot; style=&quot;left: 0px; right: 240px; font-size: 14px ! important; height: 17px ! important; line-height: 50px; display: block; border: 1px solid black; padding: 0pt; margin: 0pt;&quot; /&gt;&lt;select id=&quot;LIU_sel&quot; style=&quot;width: 100px; right: 138px; font-size: 14px ! important; height: 17px; border: 1px solid black; padding: 0pt; margin: 0pt;&quot;&gt;&lt;option style=&quot;width: 30%; height: 19px; border: 0pt none;&quot;&gt;Wictionary&lt;/option&gt;&lt;option style=&quot;width: 30%; height: 19px; border: 0pt none;&quot;&gt;Chambers (UK)&lt;/option&gt;&lt;option style=&quot;width: 30%; height: 19px; border: 0pt none;&quot;&gt;The Free Dictionary&lt;/option&gt;&lt;option style=&quot;width: 30%; height: 19px; border: 0pt none;&quot;&gt;WordNet&lt;/option&gt;&lt;option style=&quot;width: 30%; height: 19px; border: 0pt none;&quot;&gt;Urban Dictionary&lt;/option&gt;&lt;option style=&quot;width: 30%; height: 19px; border: 0pt none;&quot;&gt;Answers.com&lt;/option&gt;&lt;option style=&quot;width: 30%; height: 19px; border: 0pt none;&quot;&gt;rhymezone.com&lt;/option&gt;&lt;option style=&quot;width: 30%; height: 19px; border: 0pt none;&quot;&gt;Merriam-Webster&lt;/option&gt;&lt;option style=&quot;width: 30%; height: 19px; border: 0pt none;&quot;&gt;Dict.pl&lt;/option&gt;&lt;option style=&quot;width: 30%; height: 19px; border: 0pt none;&quot;&gt;MegaSłownik&lt;/option&gt;&lt;/select&gt;&lt;input id=&quot;LIU_search&quot; style=&quot;width: 68px; padding: 0pt; right: 68px; font-size: 14px ! important; height: 19px; border: 1px solid black;&quot; type=&quot;submit&quot; value=&quot;Search&quot; /&gt;&lt;button id=&quot;LIU_prev&quot; style=&quot;width: 20px; padding: 0pt; right: 46px; height: 19px; border: 1px solid black;&quot;&gt;&lt;&lt;/button&gt;&lt;button id=&quot;LIU_next&quot; style=&quot;width: 20px; padding: 0pt; right: 24px; height: 19px; border: 1px solid black;&quot;&gt;&gt;&lt;/button&gt;&lt;button id=&quot;LIU_mode&quot; style=&quot;width: 20px; padding: 0pt; right: 2px; height: 19px; border: 1px solid black;&quot;&gt;0&lt;/button&gt;</div>\r\n<div style=\"left:2px;right:0px;top:22px\">&lt;button id=&quot;LIU_0&quot; style=&quot;width: 20px; padding: 0pt; margin-right: 2px; height: 19px; border: 1px solid black; background-color: #dddddd;&quot;&gt;v&lt;/button&gt;&lt;button id=&quot;LIU_1&quot; style=&quot;width: 20px; padding: 0pt; margin-right: 2px; height: 19px; border: 1px solid black; background-color: #dddddd;&quot;&gt;c&lt;/button&gt;&lt;button id=&quot;LIU_2&quot; style=&quot;width: 20px; padding: 0pt; margin-right: 2px; height: 19px; border: 1px solid black; background-color: #dddddd;&quot;&gt;f&lt;/button&gt;&lt;button id=&quot;LIU_3&quot; style=&quot;width: 20px; padding: 0pt; margin-right: 2px; height: 19px; border: 1px solid black; background-color: #dddddd;&quot;&gt;o&lt;/button&gt;&lt;button id=&quot;LIU_4&quot; style=&quot;width: 20px; padding: 0pt; margin-right: 2px; height: 19px; border: 1px solid black; background-color: #dddddd;&quot;&gt;u&lt;/button&gt;&lt;button id=&quot;LIU_5&quot; style=&quot;width: 20px; padding: 0pt; margin-right: 2px; height: 19px; border: 1px solid black; background-color: #dddddd;&quot;&gt;a&lt;/button&gt;&lt;button id=&quot;LIU_6&quot; style=&quot;width: 20px; padding: 0pt; margin-right: 2px; height: 19px; border: 1px solid black; background-color: #dddddd;&quot;&gt;r&lt;/button&gt;&lt;button id=&quot;LIU_7&quot; style=&quot;width: 20px; padding: 0pt; margin-right: 2px; height: 19px; border: 1px solid black; background-color: #dddddd;&quot;&gt;b&lt;/button&gt;&lt;button id=&quot;LIU_8&quot; style=&quot;width: 20px; padding: 0pt; margin-right: 2px; height: 19px; background-color: white; border: 1px solid black black white;&quot;&gt;s&lt;/button&gt;&lt;button id=&quot;LIU_9&quot; style=&quot;width: 20px; padding: 0pt; margin-right: 2px; height: 19px; border: 1px solid black; background-color: #dddddd;&quot;&gt;m&lt;/button&gt;</div>\r\n&lt;/form&gt;</div>\r\n</div>",
+    "PostedDate": "2010-03-07T02:43:55.367-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "415221",
+    "ThreadId": "204065",
+    "Html": "<p><span style=\"color:#800080\">po zainstalowaniu wtyczki wszystko mi się sypnęło...</span></p>\r\n<p><span style=\"color:#800080\">po  włączeniu sm ux, włączeniu trybu edycji i pr&oacute;by zmiany czegoś w lewej  kolumnie pojawiał się komunikat: System.argumentException: czcionka  &quot;verdana&quot; nie obsługuje stylu &quot;regular&quot;, po czym program automatycznie  się wyłączał i trzy razy pokazywał komunikat, że &quot;  system.InvalidOperationException: zmodyfikowano kolekcję. nie można  wykkonać operacji wyliczania.</span></p>\r\n<p><span style=\"color:#800080\"> pr&oacute;bowałam odinstalowac cały  program i zainstalować go raz jeszcze, ale to nie daje żadnego  rezultatu, poza tym, że wyświetla tylko 1 komunikat, bo już nie ma czego  zliczać.<br></span></p>\r\n<p><span style=\"color:#800080\"> w jaki spos&oacute;b można usunąć dokładnie ten program, żeby m&oacute;c go zainstalować od początku? <br> mam windows xp he, gdyby to coś zmieniało</span></p>\r\n<p><span style=\"color:#800080\">będę wdzięczna za pomoc<br></span></p>",
+    "PostedDate": "2010-03-07T13:54:56.437-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "415238",
+    "ThreadId": "204065",
+    "Html": "<p>wtyczki nie zmieniają niczego w oryginalnym SuperMemo, więc nie bardzo rozumiem co u Ciebie się dzieje. Czy możesz przekleić dokładne komunikaty o błędach?</p>\r\n<p>&nbsp;</p>",
+    "PostedDate": "2010-03-07T14:54:11.593-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "415325",
+    "ThreadId": "204065",
+    "Html": "<div dir=ltr>hm, jak pisałam: po ponownym zainstalowaniu SuperMemo przy próbie edycji np. nazwy nowego rozdziału pojawia się <br><br>An error occured:<br>system.ArgumentException: czcionka &quot;verdana&quot; nie obsługuje stylu &quot;regular&quot;.<br>\r\n\r\n<br>po daniu ok - jedynej mozliwej opcji, superMemo się automatycznie wyłącza.<br><br>zupełnie nie wiem czemu, nic nie zmieniałam, zainstalowałam te wtyczki i przy próbie postępowania zgodnie z instrukcjami dot. zmiany tych języków takie coś zaczęło się dziać, więc go odinstalowałam całkiem i zainstalowałam, no, ale coś się podziało i nie działa.<br>\r\n\r\n<br><br><br></div>",
+    "PostedDate": "2010-03-07T23:54:27.777-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "416608",
+    "ThreadId": "204065",
+    "Html": "<div dir=ltr>wtyczka zadziałała i zamienia q/a  i to jest super! :)<br>jedyny problemem, który &quot;pozostał&quot; jest ten komunikat, który nadal się pojawia i wywala program, ale jak rozumiem to wina programu lub mojego komputera.<br>\r\n\r\nw każdym razie dziękuję za pomoc.<br></div>",
+    "PostedDate": "2010-03-10T14:14:57.823-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

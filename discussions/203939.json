@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "414576",
+    "ThreadId": "203939",
+    "Html": "<p>Czy istnieje jakaś &quot;oficjalna lub nieoficjalna&quot; możliwość utowrzenia całkowicie nowego szablonu. Mam na myśli szablonu z własnym tłem i z własnym układem i wielkościami blok&oacute;w. Chciałbym na przykład, żeby blok pytania był po lewje stronie a blok odpowiedzi po prawej, a nie jak w standardowych szablonach jedno nad drugim.</p>",
+    "PostedDate": "2010-03-05T05:24:17.587-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "414812",
+    "ThreadId": "203939",
+    "Html": "<p>Najłatwiej wykonać to w następujący spos&oacute;b:</p>\r\n<p>1. Uruchom SM z wtyczkami i przejdź do swojej bazy danych</p>\r\n<p>2. Wybierz opcję diagnostyczną: Wtyczki\\Diagnostyka\\Przeglądaj zawartość SmPack'a</p>\r\n<p>3. Popatrz sobie na pliki w podkatalogach template0000X</p>\r\n<p>4. Wybierając plik i naciskając ok spowodujesz, że plik ten zostanie wypakowany do podkatalogu Twojego kursu. Wyekstraktuj w ten spos&oacute;b wszystkie pliki z ostatniego katalogu 'template' (z najwyższym numerem)</p>\r\n<p>5. Skopiuj te pliki do katalogu z nowym numerem, o 1 większym</p>\r\n<p>6. Template to plik XML - możesz go sobie wyedytować dostosowując szablon do swoich potrzeb</p>\r\n<p>&nbsp;</p>",
+    "PostedDate": "2010-03-05T15:37:45.487-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

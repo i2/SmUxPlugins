@@ -1,0 +1,42 @@
+﻿CLI: v.2.0.50727.3603
+System: Microsoft Windows NT 5.1.2600 Dodatek Service Pack 3
+
+[2010-04-08 17:38:20, v1.4.5] System.Reflection.TargetInvocationException: Obiekt docelowy wywołania zgłosił wyjątek. ---> System.IO.FileNotFoundException: Nie można załadować pliku lub zestawu 'file:///C:\Documents and Settings\J\Pulpit\Plugins\Diagnostic.dll' lub jednej z jego zależności. Nie można odnaleźć określonego pliku.
+Nazwa pliku: 'file:///C:\Documents and Settings\J\Pulpit\Plugins\Diagnostic.dll'
+   w System.Reflection.Assembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, Assembly locationHint, StackCrawlMark& stackMark, Boolean throwOnFileNotFound, Boolean forIntrospection)
+   w System.Reflection.Assembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, Assembly locationHint, StackCrawlMark& stackMark, Boolean throwOnFileNotFound, Boolean forIntrospection)
+   w System.Reflection.Assembly.InternalLoad(AssemblyName assemblyRef, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   w System.Reflection.Assembly.InternalLoadFrom(String assemblyFile, Evidence securityEvidence, Byte[] hashValue, AssemblyHashAlgorithm hashAlgorithm, Boolean forIntrospection, StackCrawlMark& stackMark)
+   w System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   w PluginSystem.SuperMemoInjection.GetPluginsList()
+   w PluginSystem.SuperMemoInjection.RegisterAllPlugins()
+   w PluginSystem.SuperMemoInjection.Install()
+
+OSTRZEŻENIE: rejestrowanie informacji o powiązaniach zestaww jest wyłączone.
+Aby włączyć rejestrowanie błędw powiązań zestaww, ustaw wartość rejestru [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) rwną 1.
+Uwaga: z włączeniem rejestrowania błędw powiązań zestaww wiąże się pewien spadek wydajności.
+Aby wyłączyć tę funkcję, usuń wartość rejestru [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+   --- Koniec śladu stosu wyjątków wewnętrznych ---
+   w System.RuntimeMethodHandle._InvokeMethodFast(Object target, Object[] arguments, SignatureStruct& sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   w System.RuntimeMethodHandle.InvokeMethodFast(Object target, Object[] arguments, Signature sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   w System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture, Boolean skipVisibilityChecks)
+   w System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   w MessageHookProc(Int32 nCode, UInt32 wparam, Int32 lparam)
+   w System.Windows.Forms.UnsafeNativeMethods.PeekMessage(MSG& msg, HandleRef hwnd, Int32 msgMin, Int32 msgMax, Int32 remove)
+   w System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(Int32 dwComponentID, Int32 reason, Int32 pvLoopData)
+   w System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   w System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   w System.Windows.Forms.Application.Run(Form mainForm)
+   w SMW.Program.Main(String[] args): Obiekt docelowy wywołania zgłosił wyjątek.
+   w System.RuntimeMethodHandle._InvokeMethodFast(Object target, Object[] arguments, SignatureStruct& sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   w System.RuntimeMethodHandle.InvokeMethodFast(Object target, Object[] arguments, Signature sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   w System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture, Boolean skipVisibilityChecks)
+   w System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   w MessageHookProc(Int32 nCode, UInt32 wparam, Int32 lparam)
+   w System.Windows.Forms.UnsafeNativeMethods.PeekMessage(MSG& msg, HandleRef hwnd, Int32 msgMin, Int32 msgMax, Int32 remove)
+   w System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(Int32 dwComponentID, Int32 reason, Int32 pvLoopData)
+   w System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   w System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   w System.Windows.Forms.Application.Run(Form mainForm)
+   w SMW.Program.Main(String[] args)

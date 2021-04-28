@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30428</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{751FCF57-9DA6-4F4A-85AB-94534B39EE80}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Bookmarks</RootNamespace>
+    <AssemblyName>Bookmarks</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\..\..\..\..\Program Files %28x86%29\SuperMemo UX\Plugins\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>..\..\..\..\..\..\..\Program Files\SuperMemo UX\Plugins\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxSHDocVw, Version=1.1.0.0, Culture=neutral, PublicKeyToken=43f3a7e73bba84ac, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files\SuperMemo UX\AxSHDocVw.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.mshtml, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files\SuperMemo UX\Microsoft.mshtml.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddBookmark.cs">
+    </Compile>
+    <Compile Include="BookmarkBase.cs" />
+    <Compile Include="BookmarkDefinition.cs" />
+    <Compile Include="DlgBookmark.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DlgBookmark.Designer.cs">
+      <DependentUpon>DlgBookmark.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GoToNextBookmark.cs" />
+    <Compile Include="GoToPreviousBookmark.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RemoveAllBookmarks.cs" />
+    <Compile Include="RemoveBookmark.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PluginSystem\PluginSystem.csproj">
+      <Project>{B2BDB6B0-249A-4D62-BD17-CA551359229B}</Project>
+      <Name>PluginSystem</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DlgBookmark.resx">
+      <DependentUpon>DlgBookmark.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Icons\accept.png" />
+    <EmbeddedResource Include="Icons\anchor.png" />
+    <EmbeddedResource Include="Icons\application_edit.png" />
+    <EmbeddedResource Include="Icons\arrow_branch.png" />
+    <EmbeddedResource Include="Icons\arrow_divide.png" />
+    <EmbeddedResource Include="Icons\arrow_redo.png" />
+    <EmbeddedResource Include="Icons\asterisk_orange.png" />
+    <EmbeddedResource Include="Icons\attach.png" />
+    <EmbeddedResource Include="Icons\award_star_gold_3.png" />
+    <EmbeddedResource Include="Icons\bell.png" />
+    <EmbeddedResource Include="Icons\bomb.png" />
+    <EmbeddedResource Include="Icons\book_open.png" />
+    <EmbeddedResource Include="Icons\box.png" />
+    <EmbeddedResource Include="Icons\bug.png" />
+    <EmbeddedResource Include="Icons\bullet_error.png" />
+    <EmbeddedResource Include="Icons\cancel.png" />
+    <EmbeddedResource Include="Icons\clock.png" />
+    <EmbeddedResource Include="Icons\contrast_high.png" />
+    <EmbeddedResource Include="Icons\cross.png" />
+    <EmbeddedResource Include="Icons\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Icons\rainbow.png" />
+    <EmbeddedResource Include="Icons\shape_ungroup.png" />
+    <EmbeddedResource Include="Icons\sound.png" />
+    <EmbeddedResource Include="Icons\sound_mute.png" />
+    <EmbeddedResource Include="Icons\sport_basketball.png" />
+    <EmbeddedResource Include="Icons\sum.png" />
+    <EmbeddedResource Include="Icons\text_align_center.png" />
+    <EmbeddedResource Include="Icons\user.png" />
+    <EmbeddedResource Include="Icons\wand.png" />
+    <EmbeddedResource Include="Icons\weather_cloudy.png" />
+    <EmbeddedResource Include="Icons\weather_lightning.png" />
+    <EmbeddedResource Include="Icons\weather_sun.png" />
+    <EmbeddedResource Include="Icons\world.png" />
+    <EmbeddedResource Include="Icons\wrench.png" />
+    <EmbeddedResource Include="Icons\zoom.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

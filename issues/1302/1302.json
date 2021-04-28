@@ -1,0 +1,70 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "Instalacja .NET Framework 3.5 rozwiązała problem",
+    "ClosedDate": "2009-05-19T14:21:27.737-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Cześć,\npostąpiłem zgodnie z instrukacją:\n \n1. Rozpakować zawartość pliku ZIP do katalogu z SuperMemoUx (zwykle c:\\Program Files\\SuperMemo UX)\n2. Uruchomić SuperMemo Ux\n3. Uruchomić PluginSystem.exe\n \nJednak w 3 dostaję takie okno z błędem:\n \nApplication Error\n \n             An error occurred:\n \n             System.Reflection.TargetInvocationException: Obiekt docelowy wywołania zgłosił wyjątek. ---> System.IO.FileNotFoundException: Nie można \n             załadować pliku lub zestawu 'System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' lub jednej z jego zależności. Nie \n             można odnaleźć określonego pliku.\n             Nazwa pliku: 'System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'\n \n                                                                             OK\nCo jest przyczyną? Będę wdzięczny za odpowiedź.",
+    "LastUpdatedDate": "2013-05-15T22:15:35.397-07:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "SmUxPlugins",
+    "ReportedDate": "2009-05-19T01:15:35.14-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Error",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 1,
+    "Id": 1302
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "Okazuje się, że aktualizacja Windowsa (szczególnie dodatek .NET 3.5) pomogła.",
+      "PostedDate": "2009-05-19T03:40:04.517-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "Problem polega na tym, że na Twoim komputerze nie jest zainstalowany .NET Framework 3.5\r\nPo jego ściągnięciu z http://www.microsoft.com/downloads/details.aspx?FamilyId=333325FD-AE52-4E35-B531-508D977D32A6&displaylang=en i instalacji powinno być wszystko ok.",
+      "PostedDate": "2009-05-19T10:36:20.02-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "A możesz zobaczyć, czy po aktualizacji do Framework'a 3.5 masz ciągle ten sam komunikat?",
+      "PostedDate": "2009-05-19T10:37:21.217-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2009-05-19T14:21:27.737-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-02-13T17:05:07.363-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-05-15T22:15:35.397-07:00",
+      "Id": -2147483648
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+[
+  {
+    "Id": "0",
+    "Name": "SuperMemoPlugins 1.9.0.0",
+    "DevelopmentStatus": "Stable",
+    "Description": "A new version for compatibility with SuperMemo UX 1.4.3.x",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2010-01-26T14:38:50.743-08:00",
+    "Files": [
+      {
+        "Id": "21821ad0-c730-4729-8151-4dd9f98caee4",
+        "FileName": "SuperMemoPlugins 1.9.0.0.zip",
+        "Url": "./0/21821ad0-c730-4729-8151-4dd9f98caee4",
+        "Type": "Application",
+        "UploadDate": "2010-01-26T14:37:27.813-08:00"
+      }
+    ]
+  },
+  {
+    "Id": "1",
+    "Name": "SuperMemoPlugins 1.8.0.0",
+    "DevelopmentStatus": "Beta",
+    "Description": "Another release containing:\n* new plugin for recording sounds from any dictionary!\n* styles for quickly repeating the same format in many items\n* many bug fixes\n* enhancement of keyboard navigation\n* import from legacy SM small improvements\n",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2009-08-24T11:57:47.93-07:00",
+    "Files": [
+      {
+        "Id": "3a93e210-5187-4c27-bfb9-714c5a027483",
+        "FileName": "SuperMemoPlugins 1.8.0.0.zip",
+        "Url": "./1/3a93e210-5187-4c27-bfb9-714c5a027483",
+        "Type": "Application",
+        "UploadDate": "2009-08-24T11:57:47.757-07:00"
+      }
+    ]
+  },
+  {
+    "Id": "2",
+    "Name": "SuperMemoPlugins 1.7.5.0",
+    "DevelopmentStatus": "Stable",
+    "Description": "Further improvements of import plugin: now you can import any database from legacy SM (MSM, Sm2004, Sm2006)\nExperimentally you can also test importing database using additional translation file - using this you should be able to fully import Advanced English database.\nPlugin to edit many items at one time (command, lesson and chapter text)\nPossibility to navigate among many question and answer media using only keyboard\n\nAlso many bugs was fixed, so we strongly recommend you to upgrade your version.",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2009-08-08T08:57:53.59-07:00",
+    "Files": [
+      {
+        "Id": "90e8904e-46b9-4eaa-8f06-dd6d195de435",
+        "FileName": "SuperMemoPlugins 1.7.5.0.zip",
+        "Url": "./2/90e8904e-46b9-4eaa-8f06-dd6d195de435",
+        "Type": "Application",
+        "UploadDate": "2009-08-08T08:54:12.203-07:00"
+      }
+    ]
+  },
+  {
+    "Id": "3",
+    "Name": "SuperMemoPlugins 1.7.0.0",
+    "DevelopmentStatus": "Stable",
+    "Description": "First version with ability to import data from older supermemo. Using NodeAsText format you can convert many old databases mostly without any loss.\nAlso contains new plugin to adding links to items and to editing many items at once.",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2009-07-18T12:04:49.943-07:00",
+    "Files": [
+      {
+        "Id": "2fe61241-0c38-4566-ae75-ba332e3e1750",
+        "FileName": "SuperMemoPlugins 1.7.0.0.zip",
+        "Url": "./3/2fe61241-0c38-4566-ae75-ba332e3e1750",
+        "Type": "Application",
+        "UploadDate": "2009-07-18T12:04:49.833-07:00"
+      }
+    ]
+  },
+  {
+    "Id": "4",
+    "Name": "SuperMemoPlugins 1.6.1.0",
+    "DevelopmentStatus": "Stable",
+    "Description": "New release with new big feature: now you can edit commercial databases, which by default are locked!",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2009-07-05T05:29:51.493-07:00",
+    "Files": [
+      {
+        "Id": "765e0f4a-7ceb-4bc4-a61a-06ac8aa3834c",
+        "FileName": "SuperMemoPlugins 1.6.1.0.zip",
+        "Url": "./4/765e0f4a-7ceb-4bc4-a61a-06ac8aa3834c",
+        "Type": "Application",
+        "UploadDate": "2009-07-05T05:29:14.18-07:00"
+      }
+    ]
+  },
+  {
+    "Id": "5",
+    "Name": "SuperMemoPlugins 1.6.0.0",
+    "DevelopmentStatus": "Beta",
+    "Description": "* First version compatible with 64-bit environment\n* Templates for fast item adding\n* Bug fixes in plugin for clearing formatting\n* Many other small bug fixes",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2009-06-26T11:58:13.587-07:00",
+    "Files": [
+      {
+        "Id": "e713bddf-3bef-4f26-9eba-9aba90f2b0cc",
+        "FileName": "SuperMemoPlugins 1.6.0.0.zip",
+        "Url": "./5/e713bddf-3bef-4f26-9eba-9aba90f2b0cc",
+        "Type": "Application",
+        "UploadDate": "2009-06-26T11:58:13.477-07:00"
+      }
+    ]
+  },
+  {
+    "Id": "6",
+    "Name": "SuperMemoPlugins 1.5.0.4",
+    "DevelopmentStatus": "Beta",
+    "Description": "New plugin do reverse question and answer\nMany fixes for bugs from 1.5.0.0. version",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2009-06-14T14:33:26.827-07:00",
+    "Files": [
+      {
+        "Id": "c8789b93-709b-4fb2-bbe1-2dda6b85aaa1",
+        "FileName": "SuperMemoPlugins 1.5.0.4.zip",
+        "Url": "./6/c8789b93-709b-4fb2-bbe1-2dda6b85aaa1",
+        "Type": "Application",
+        "UploadDate": "2009-06-14T14:33:26.717-07:00"
+      }
+    ]
+  },
+  {
+    "Id": "7",
+    "Name": "SuperMemoPlugins 1.5.0.0",
+    "DevelopmentStatus": "Beta",
+    "Description": "New major version with posibilies to easily exchange items between many databases.\nExport any items with their structure to new format: SmUxPack\nImport items to any database pointing the node, where you want to add new items.",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2009-06-11T02:58:42.78-07:00",
+    "Files": [
+      {
+        "Id": "67313860-4444-4ccd-881a-607437d7b78c",
+        "FileName": "SuperMemoPlugins 1.5.0.0.zip",
+        "Url": "./7/67313860-4444-4ccd-881a-607437d7b78c",
+        "Type": "Application",
+        "UploadDate": "2009-06-11T02:45:43.85-07:00"
+      }
+    ]
+  },
+  {
+    "Id": "8",
+    "Name": "SuperMemoPlugins 1.0.2.0",
+    "DevelopmentStatus": "Beta",
+    "Description": "New plugins: \n* assigning downloaded sound file as an item answer\n* IPA table to easly enter pronunciation symbols",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2009-05-12T14:03:49.953-07:00",
+    "Files": [
+      {
+        "Id": "66cc3fb1-0eea-4ffb-a34a-ecaf392ab4d2",
+        "FileName": "SuperMemoPlugins 1.0.2.0.zip",
+        "Url": "./8/66cc3fb1-0eea-4ffb-a34a-ecaf392ab4d2",
+        "Type": "Application",
+        "UploadDate": "2009-05-12T14:03:49.783-07:00"
+      }
+    ]
+  },
+  {
+    "Id": "9",
+    "Name": "SuperMemoPlugins 1.0.1.2.zip",
+    "DevelopmentStatus": "Beta",
+    "Description": "New version with a lot of new features:\n\n* Bookmark system\n* Quicksearch and incremental search\n* Editor extensions\n* Navigation commands",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2009-05-07T13:36:25.98-07:00",
+    "Files": [
+      {
+        "Id": "d08b29b0-27fe-4f87-94c5-0f5c362a852b",
+        "FileName": "SuperMemoPlugins 1.0.1.2.zip",
+        "Url": "./9/d08b29b0-27fe-4f87-94c5-0f5c362a852b",
+        "Type": "Application",
+        "UploadDate": "2009-05-07T13:36:25.823-07:00"
+      }
+    ]
+  },
+  {
+    "Id": "10",
+    "Name": "SuperMemoPlugins 1.0.0.1.zip",
+    "DevelopmentStatus": "Alpha",
+    "Description": "New version with:\n- plugin to download IPA pronunciation from web dictionary\n- plugin to play pronunciation from web dictionary\n\nStill alpha - use at your own risk!!!",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2009-04-28T11:21:30.42-07:00",
+    "Files": [
+      {
+        "Id": "ac5d4385-4d46-436f-9259-8adac695a469",
+        "FileName": "SuperMemoPlugins 1.0.0.1.zip",
+        "Url": "./10/ac5d4385-4d46-436f-9259-8adac695a469",
+        "Type": "Application",
+        "UploadDate": "2009-04-28T11:21:30.297-07:00"
+      }
+    ]
+  },
+  {
+    "Id": "11",
+    "Name": "SuperMemoPlugins 1.0.0.0",
+    "DevelopmentStatus": "Alpha",
+    "Description": "This is the first alpha version - just proof of concept. If you decided to use it remember to backup your SM often.\nFor instruction refer to ReadMe.txt inside zip.",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2009-04-28T11:22:47.11-07:00",
+    "Files": [
+      {
+        "Id": "069927ce-7f1f-463c-8f0c-8cd5ea7f3110",
+        "FileName": "SuperMemoPlugins 1.0.0.0.zip",
+        "Url": "./11/069927ce-7f1f-463c-8f0c-8cd5ea7f3110",
+        "Type": "Application",
+        "UploadDate": "2009-04-25T15:26:17.02-07:00"
+      }
+    ]
+  },
+  {
+    "Id": "12",
+    "Name": "SuperMemoPlugins 2.0.0.0",
+    "DevelopmentStatus": "Stable",
+    "Description": "New version with new features:\n* auto format function\n* new configuration system\n* possibility to change/define new dictionaries for pronunciation downloading\n* options to adjust IPA table\n* fix for templates bug\n* many more small bugs fixes\n\n*IMPORTANT*\nThis is the first version which comes with a new installer.\nNew version should be installed in a directory called Plugins in the SuperMemo Ux directory (Example: \"c:\\Program Files\\SuperMemo UX\\Plugins\")\nBefore installing new version be sure to remove the previous one manually!",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2010-02-14T06:28:20.417-08:00",
+    "Files": [
+      {
+        "Id": "c2bc565e-eab5-4999-a14f-f415dfe9f4af",
+        "FileName": "Plugins.exe",
+        "Url": "./12/c2bc565e-eab5-4999-a14f-f415dfe9f4af",
+        "Type": "Application",
+        "UploadDate": "2010-02-14T03:58:26.39-08:00"
+      }
+    ]
+  }
+]

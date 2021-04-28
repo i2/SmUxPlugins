@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "432785",
+    "ThreadId": "209802",
+    "Html": "<p>Wtyczka &quot;Style&quot; to bardzo dobry pomysł,&nbsp; ale definiowanie stylu wewnątrz pliku jednostki komplikuje sprawę w sytuacji, gdyby chciało się zmienić coś w definicji danego stylu w p&oacute;źniejszym czasie. Poza tym przenoszenie bazy pomiędzy urządzeniami o r&oacute;żnej rodzielczości (np. pomiędzy PC i PDA) byłoby bardzo pracochłonne ze względu na konieczność zmiany styl&oacute;w we wszystkich plikach jednostek. W związku z tym mam dwa pytania.</p>\r\n<p>1. Czy zastanawialiście się nad możliwością wykorzystania zewnętrznego arkusza styl&oacute;w, czyli nad takim klasycznym rozwiązaniem jakie stosuje się przy budowie stron internetowych (index.html = treść strony z podłączonym arkuszem styl&oacute;w, a style.css = formatowanie treści w index.html). Czy myślicie, że istnieje w og&oacute;le techniczna możliwość wykorzystania takiego mechanimzmu w&nbsp; SM UX? Ręcznie wstawiona komenda &lt;?xml-stylesheet type=&quot;text/css&quot; href=&quot;style.css&quot;?&gt; do pliku jednostki jest usuwana przez program. Ale może istnieje jakieś obejście tego problemu?</p>\r\n<p>2. Analizując pliki komercyjnych baz danych natrafiłem na taki kod: &lt;td class=&quot;ang&quot;&gt;eating out in London&lt;/td&gt;, &lt;td class=&quot;pol&quot;&gt;stołowanie się na mieście w Londynie&lt;/td&gt;. Gdzie mogą być zdefiniowane te klasy?</p>",
+    "PostedDate": "2010-04-19T10:18:07.187-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

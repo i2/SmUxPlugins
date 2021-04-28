@@ -1,0 +1,118 @@
+[
+  {
+    "Id": 825,
+    "Title": "Sound download plugin"
+  },
+  {
+    "Id": 855,
+    "Title": "Configuration for dictionary look up"
+  },
+  {
+    "Id": 958,
+    "Title": "Lack of file MessageType.cs in TFS"
+  },
+  {
+    "Id": 1117,
+    "Title": "Text field size"
+  },
+  {
+    "Id": 1118,
+    "Title": "Templetes for adding/importing new items"
+  },
+  {
+    "Id": 1119,
+    "Title": "More intuitive way of inserting 'gap field'"
+  },
+  {
+    "Id": 1120,
+    "Title": "External dictionaries integration"
+  },
+  {
+    "Id": 1127,
+    "Title": "Plugin to import data from old SuperMemo"
+  },
+  {
+    "Id": 1132,
+    "Title": "Statistics"
+  },
+  {
+    "Id": 1302,
+    "Title": "Error"
+  },
+  {
+    "Id": 1307,
+    "Title": "Last colour restoring"
+  },
+  {
+    "Id": 1576,
+    "Title": "Download pronunciation and set up as an answer in one shortcut"
+  },
+  {
+    "Id": 1607,
+    "Title": "Possibility to change text size for item"
+  },
+  {
+    "Id": 1646,
+    "Title": "PluginSystem.exe na Vista x64 nie dziala"
+  },
+  {
+    "Id": 1664,
+    "Title": "Multi edit"
+  },
+  {
+    "Id": 1667,
+    "Title": "TargetInvocationException when trying to run PluginSystem"
+  },
+  {
+    "Id": 1804,
+    "Title": "Exception thrown in export operation when test node doesn't contain media directory"
+  },
+  {
+    "Id": 1839,
+    "Title": "import z SmUxPack"
+  },
+  {
+    "Id": 1984,
+    "Title": "support of template types in Import/Export"
+  },
+  {
+    "Id": 2113,
+    "Title": "Problem with v.1.8.0 (navigation.dll, diagnostic.dll, bookmarks.dll)"
+  },
+  {
+    "Id": 2926,
+    "Title": "Problem with the newest version Supermemo UX (1.4.3.1)"
+  },
+  {
+    "Id": 3414,
+    "Title": "Obiekt docelowy wywołania zgłosił wyjątek. ---> System.NullReferenceException"
+  },
+  {
+    "Id": 3755,
+    "Title": "Problem z nagrywaniem"
+  },
+  {
+    "Id": 3760,
+    "Title": "Problem z dodawaniem jednostek wg. szablonu"
+  },
+  {
+    "Id": 4042,
+    "Title": "Pobieranie wymowy."
+  },
+  {
+    "Id": 4084,
+    "Title": "Toolbar for editor"
+  },
+  {
+    "Id": 4121,
+    "Title": "Application Error"
+  },
+  {
+    "Id": 7901,
+    "Title": "Aplikacja nie loguje się"
+  },
+  {
+    "Id": 8058,
+    "Title": "formatowanie tekstu"
+  }
+]

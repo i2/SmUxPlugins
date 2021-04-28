@@ -1,0 +1,45 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Podczas pobierania wymowy wyskakuje mi taki błąd. Jak temu zaradzić?",
+    "LastUpdatedDate": "2013-02-13T17:05:04.343-08:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "SmUxPlugins",
+    "ReportedDate": "2010-02-27T14:59:48.137-08:00",
+    "Status": {
+      "Name": "Proposed",
+      "Id": 1
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Pobieranie wymowy.",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 1,
+    "Id": 4042
+  },
+  "FileAttachments": [
+    {
+      "FileId": 1318,
+      "FileName": "wymowa.jpg",
+      "DownloadUrl": ".\\1318"
+    }
+  ],
+  "Comments": []
+}

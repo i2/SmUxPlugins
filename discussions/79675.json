@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "272847",
+    "ThreadId": "79675",
+    "Html": "<p>Wreszcie zabrałem się na serio za rozgryzanie programu. Wtyczka pozwala na podłączanie nagrań jako odpowiedź - wcześniej nagranie można &quot;ściągnąć&quot; ze słownika (F8). Czy autor m&oacute;głby umożliwić podłączanie nagrań jako pytanie? U mnie schemat nauki jest następujący: pytanie - sł&oacute;wko (angielskie)+automatyczne odtwarzanie nagrania, odpowiedź - wyjaśnienie + zdania. &nbsp; &nbsp;</p>",
+    "PostedDate": "2010-01-04T04:15:33.217-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "283938",
+    "ThreadId": "79675",
+    "Html": "Funkcjonalność taka pojawi się w wersji 2.0.0.0 planowanej na luty",
+    "PostedDate": "2010-01-31T08:06:22.51-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "Problem has been solved in the latest version - please avoid mixing assemblies from different versions - it will only cause more problems",
+    "ClosedDate": "2010-01-30T12:05:09.003-08:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "I found a problem with plug-in in version 1.8.0.\nI can run SMUX, there appears an additional column with a number of left items. But when I try to mouse over, or click on a menu item 'Wtyczki' I get a MsgBox with an error:\n \nTitlebar: Application Error\nContent:\nAn error occurred:\n \nSystem.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.\n \nPartly solution:\nI tried to mix files from both versions. It is successful, only if I don't copy any of these files: navigation.dll, diagnostic.dll, bookmarks.dll from version 1.8. My SMUX is the newest version.\n \nAnd the additional thing is how to make better signs in IPA. Problem is shown in attachment. There may be only a problem with fonts?\n \nThank you for a great work.",
+    "LastUpdatedDate": "2013-05-15T22:15:34.22-07:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "SmUxPlugins",
+    "ReportedDate": "2009-08-28T03:39:01.98-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Problem with v.1.8.0 (navigation.dll, diagnostic.dll, bookmarks.dll)",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 1,
+    "Id": 2113
+  },
+  "FileAttachments": [
+    {
+      "FileId": 783,
+      "FileName": "ipa.png",
+      "DownloadUrl": ".\\783"
+    }
+  ],
+  "Comments": []
+}

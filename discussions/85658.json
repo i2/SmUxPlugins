@@ -1,0 +1,42 @@
+[
+  {
+    "Id": "291735",
+    "ThreadId": "85658",
+    "Html": "<p>Witam,</p>\r\n<p>&nbsp;</p>\r\n<p>Jest możliwość aby wyeksportować zamkniętą bazę (np Extreme English Advanced lub Irregular Verbs) do formatu otwartego tzn do plik&oacute;w XML ?&nbsp;</p>\r\n<p>pr&oacute;bowałem zrobić eksport za pomocą wtyczek (jednostki - eksportuj jednostki) ale niestety nie da się.</p>\r\n<p>Albo czy jest możliwość połączenia 2 baz w 1 ?</p>",
+    "PostedDate": "2010-02-17T07:59:50.533-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "291786",
+    "ThreadId": "85658",
+    "Html": "<p>Technicznie jest taka możliwość, ale obawiam się, że jest to niezgodne z licencją programu</p>\r\n<p>&nbsp;</p>",
+    "PostedDate": "2010-02-17T10:06:59.883-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "291806",
+    "ThreadId": "85658",
+    "Html": "<p>OK, ale mi chodzi o połączenie baz lub eksport do xml - Irregular Verbs, Phrasal verbs i Idiomy - sa to bazy otwarte, SuperMemo umożliwia ich edycje itp.</p>\r\n<p>Chciałbym to jakoś połączyć w 1 bazę (i najlepiej jakby wszystkie pliki były xml a nie w 1 &quot;courses&quot;.</p>\r\n<p>Pomożesz z tym? Jak to zrobić ?</p>",
+    "PostedDate": "2010-02-17T10:52:44.83-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "414996",
+    "ThreadId": "85658",
+    "Html": "<p>A pr&oacute;bowałeś wyeksportować każdą za pomocą wtyczek do SmUxPack a potem import do nowej bazy stworzonej przez siebie? Prawdopodobnie zmienią się szablony (wygląd) jednostek, ale powinno zadziałać. Daj znać, czy Ci się uda, bo tylko tak teoretycznie zgaduję</p>\r\n<p>&nbsp;</p>",
+    "PostedDate": "2010-03-06T08:57:44.063-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "415036",
+    "ThreadId": "85658",
+    "Html": "<p>Pr&oacute;bowałem, ale nie da się. Wyświetla się:</p>\r\n<p>http://img692.imageshack.us/img692/2555/supermemox.jpg</p>",
+    "PostedDate": "2010-03-06T12:27:08.727-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

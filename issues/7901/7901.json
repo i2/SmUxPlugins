@@ -1,0 +1,50 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Witam,\nzakupilem Extremes Deutsch Mutli i po zainstalowaniu, stworzeniu konta i probie zalogowania aplikacja sie wywala, wyswietlajac blad:\n\nApplication Error.\n\nSystem.IO.FileNotFoundException: Nie można załadować pliku lub zestawu 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' lub jednej z jego zależności. Nie można odnaleźć określonego pliku.\nNazwa pliku: 'System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'\n\nSystem operacyjny Windows 7.\n\nZalaczam FusionLog i error.log",
+    "LastUpdatedDate": "2014-10-11T04:22:02.04-07:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Unassigned",
+      "Severity": 0,
+      "Id": 0
+    },
+    "ProjectName": "SmUxPlugins",
+    "ReportedDate": "2014-10-11T04:10:52.703-07:00",
+    "Status": {
+      "Name": "Proposed",
+      "Id": 1
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Aplikacja nie loguje się",
+    "Type": {
+      "Name": "Unassigned",
+      "Id": 5
+    },
+    "VoteCount": 1,
+    "Id": 7901
+  },
+  "FileAttachments": [
+    {
+      "FileId": 3617,
+      "FileName": "FusionLog.zip",
+      "DownloadUrl": ".\\3617"
+    },
+    {
+      "FileId": 3618,
+      "FileName": "error.log",
+      "DownloadUrl": ".\\3618"
+    }
+  ],
+  "Comments": []
+}

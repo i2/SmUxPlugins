@@ -1,0 +1,36 @@
+INSTRUKCJA INSTALACJI
+
+Aby uruchomiæ SuperMemoPlugins nale¿y:
+
+1. Rozpakowaæ zawartoœæ pliku ZIP do katalogu z SuperMemoUx (zwykle c:\Program Files\SuperMemo UX)
+2. Uruchomiæ SuperMemo Ux
+3. Uruchomiæ PluginSystem.exe
+4. Za pierwszym razem, nale¿y wybraæ wtyczki, które chce siê u¿ywaæ - w tym celu nale¿y w menu g³ównym wybraæ:
+    Wtyczki\Zarz¹dzanie wtyczkami i dodaæ dll'ki: EditorExtension.dll, Diagnostic.dll
+    
+Wszelkie uwagi i problemy mo¿na zg³aszaæ na:
+Problemy: http://smuxplugins.codeplex.com/WorkItem/List.aspx
+Propozycje rozwojowe: http://smuxplugins.codeplex.com/Thread/List.aspx
+
+--------------------------------------------------------------------------------------------------------------------------
+
+ROZWI¥ZANIA TYPOWYCH PROBLEMÓW
+
+Program wymaga, aby na komputerze by³y zainstalowane: 
+- Internet Explorer 7.0 (lub nowszy)
+- Microsoft .NET Framework 3.5
+
+Na niektórych wolniejszych komputerach przy uruchamianiu PluginSystem.exe mo¿e pojawiaæ siê czasami komunikat o b³êdzie.
+Aby obejœæ ten problem, uruchom najpierw SuperMemo UX, a potem, gdy ju¿ zalogujesz siê do systemu uruchom PluginSystem.exe
+
+--------------------------------------------------------------------------------------------------------------------------
+
+LICENCJA
+
+Ten program jest darmowy - nie musisz za niego p³aciæ. 
+Je¿eli jednak uwa¿asz, ¿e program jest u¿yteczny i oszczêdza Twój czas, rozwa¿ wp³acenie pieniêdzy na poni¿sz¹ fundacjê:
+
+Polskie Towarzystwo Stwardnienia Rozsianego
+http://www.ptsr.org.pl/
+Numer konta: VOLKSWAGEN BANK 94 2130 0004 2001 0405 6198 0004
+Tytu³ przelewu: PLIR A Furgo³

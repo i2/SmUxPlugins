@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30428</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B2BDB6B0-249A-4D62-BD17-CA551359229B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PluginSystem</RootNamespace>
+    <AssemblyName>PluginSystem</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SignAssembly>false</SignAssembly>
+    <AssemblyOriginatorKeyFile>Key.snk</AssemblyOriginatorKeyFile>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <ApplicationIcon>SmUxPlugins.ico</ApplicationIcon>
+    <SignManifests>false</SignManifests>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\..\..\..\..\Program Files %28x86%29\SuperMemo UX\Plugins\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>..\..\..\..\..\..\..\Program Files\SuperMemo UX\Plugins\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxSHDocVw, Version=1.1.0.0, Culture=neutral, PublicKeyToken=43f3a7e73bba84ac, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\SuperMemo UX\AxSHDocVw.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedInjector, Version=1.0.3228.34070, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\ManagedInjector.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.mshtml, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\SuperMemo UX\Microsoft.mshtml.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="API\CurrentState.cs" />
+    <Compile Include="API\SuperMemo.ReflectionIndependent.cs" />
+    <Compile Include="Common\CollectionEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\CollectionEditor.Designer.cs">
+      <DependentUpon>CollectionEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\DlgMultielectItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\DlgMultielectItems.Designer.cs">
+      <DependentUpon>DlgMultielectItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\DlgSelectItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\DlgSelectItem.Designer.cs">
+      <DependentUpon>DlgSelectItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\DlgInputBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\DlgInputBox.Designer.cs">
+      <DependentUpon>DlgInputBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\DlgProgress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\DlgProgress.Designer.cs">
+      <DependentUpon>DlgProgress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\SerializableList.cs" />
+    <Compile Include="Configuration\Configuration.cs" />
+    <Compile Include="Configuration\ModuleConfiguration.cs" />
+    <Compile Include="Configuration\PluginSystemConfiguration.cs" />
+    <Compile Include="Helpers\HtmlElementHelper.cs" />
+    <Compile Include="Common\MessageFilter.cs" />
+    <Compile Include="Common\MessageType.cs" />
+    <Compile Include="Common\ValueRestorer.cs" />
+    <Compile Include="Common\StatusMessage.cs" />
+    <Compile Include="Common\BaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\ZipHelper.cs" />
+    <Compile Include="Helpers\MouseHelper.cs" />
+    <Compile Include="Helpers\RectangeHelper.cs" />
+    <Compile Include="Helpers\SerializationHelper.cs" />
+    <Compile Include="Helpers\StreamHelper.cs" />
+    <Compile Include="Helpers\StringHelper.cs" />
+    <Compile Include="Helpers\WebHelper.cs" />
+    <Compile Include="Helpers\XmlHelper.cs" />
+    <Compile Include="Plugins\About.cs" />
+    <Compile Include="Plugins\DlgAboutPlugins.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Plugins\DlgAboutPlugins.Designer.cs">
+      <DependentUpon>DlgAboutPlugins.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Plugins\DlgPluginManagment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Plugins\DlgPluginManagment.Designer.cs">
+      <DependentUpon>DlgPluginManagment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configuration\ConfigurationAttribute.cs" />
+    <Compile Include="Helpers\EnumerableHelepr.cs" />
+    <Compile Include="Plugins\EditConfiguration.cs" />
+    <Compile Include="Plugin\ICourseOpenNotification.cs" />
+    <Compile Include="Plugin\IPageRenderer.cs" />
+    <Compile Include="Plugins\PluginManager.cs" />
+    <Compile Include="Plugin\SuperMemoExtensionT.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Common\CollectionEditor.resx">
+      <DependentUpon>CollectionEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\DlgMultielectItems.resx">
+      <DependentUpon>DlgMultielectItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\DlgSelectItem.resx">
+      <DependentUpon>DlgSelectItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\DlgInputBox.resx">
+      <DependentUpon>DlgInputBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\DlgProgress.resx">
+      <DependentUpon>DlgProgress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Plugins\DlgAboutPlugins.resx">
+      <DependentUpon>DlgAboutPlugins.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Plugins\DlgPluginManagment.resx">
+      <DependentUpon>DlgPluginManagment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Helpers\ReflectionHelper.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="API\SuperMemo.cs" />
+    <Compile Include="Plugin\SuperMemoExtension.cs" />
+    <Compile Include="SuperMemoInjection.cs" />
+    <Compile Include="Helpers\ToolStripHelper.cs" />
+    <Compile Include="Win32\Enums.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SmUxPlugins.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Key.snk" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

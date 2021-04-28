@@ -1,0 +1,60 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "verified",
+    "ClosedDate": "2009-07-19T03:06:00.66-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Cześć,\nZnalazłem błąd, który powodował, że jeżeli mój \"test\" nie posiadał katalogu multimedialnego, to eksport do pliku kończył się wyjątkiem. Poprawka jest naturalnie banalna. W ExportItems.cs wystarczy dodać konstrukcję if (Directory.Exists(SuperMemo.CurrentCourseMediaPath)) i po zabawie.",
+    "LastUpdatedDate": "2013-05-15T22:15:34.527-07:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "SmUxPlugins",
+    "ReportedDate": "2009-07-18T08:39:15.023-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Exception thrown in export operation when test node doesn't contain media directory",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 1,
+    "Id": 1804
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "Thanks for information, you patch has been applied. In the next release (first after 1.7.0.0) bug should be fixed",
+      "PostedDate": "2009-07-19T03:05:42.28-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2009-07-19T03:06:00.66-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-02-13T17:05:06.063-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-05-15T22:15:34.527-07:00",
+      "Id": -2147483648
+    }
+  ]
+}

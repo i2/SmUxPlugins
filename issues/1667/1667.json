@@ -1,0 +1,71 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "Identical error was resolved earlier and was caused by wrong IE version",
+    "ClosedDate": "2009-07-12T11:07:50.083-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "I'm having the TargetInvocationException when trying to run PluginSystem.\nI'm using:\nIE ver. 7.0.5730.13\n.Net Framework 3.5 SP1\nWindows XP Home Edition Version 2002 SP3\nSupermemo Ux  version 1.3.3.2\n \nPlease find the attached screenshot.\nregards,\nIrenty",
+    "LastUpdatedDate": "2013-05-15T22:15:34.67-07:00",
+    "PlannedForRelease": "SuperMemoPlugins 1.6.0.0",
+    "ReleaseVisibleToPublic": true,
+    "Priority": {
+      "Name": "High",
+      "Severity": 150,
+      "Id": 3
+    },
+    "ProjectName": "SmUxPlugins",
+    "ReportedDate": "2009-06-28T13:11:12.407-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "TargetInvocationException when trying to run PluginSystem",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 1,
+    "Id": 1667
+  },
+  "FileAttachments": [
+    {
+      "FileId": 655,
+      "FileName": "supermemo_plugin_class cast excetpion.JPG",
+      "DownloadUrl": ".\\655"
+    }
+  ],
+  "Comments": [
+    {
+      "Message": "This is known problem. The simplest solution is to upgrade your IE to 8.0 and then it should work",
+      "PostedDate": "2009-06-29T11:48:22.18-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2009-07-12T08:25:53.467-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2009-07-12T11:07:50.083-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-02-13T17:05:06.227-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-05-15T22:15:34.67-07:00",
+      "Id": -2147483648
+    }
+  ]
+}

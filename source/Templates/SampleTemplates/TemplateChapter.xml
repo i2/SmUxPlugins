@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <lesson-title>Definicje szablonów jednostek</lesson-title>
+  <chapter-title>Szablony</chapter-title>
+  <question-title>
+    Rozdział zawiera definicje szablonów dostępnych w kursie
+  </question-title>
+  <question>
+    <span style="font-weight: bold;">Co to są szablony?</span><br />
+    <br />
+    Szablony to mechanizm ułatwiający szybkie dodawanie jednostek do Super Memo, oraz umożliwiający wprowadzenie zawansowanego formatowania jednostek w sposób spójny w całej bazie. <br />
+    Jednostki dodane wg tego samego szablonu mają identyczne formatowanie wspólnych elementów.<br />
+    Szablony zapamiętane są jako zwykłe jednostki w poniższym katalogu.<br />
+    <br />
+    <span style="font-weight: bold;">Tworzenie nowych szablonów</span><br />
+    Aby utworzyć nowy szablon po prostu dodaj nową jednostkę do poniższego rozdziału i wyedytuj ją wstawiając odpowiednie znaczniki w jej treści<br />
+    <br />
+    <span style="font-weight: bold;">Znaczniki</span><br />
+    Znaczniki użyte w szablonie w momencie dodawania nowej jednostki są zamieniane na odpowiednie wartości. W celu dostosowania szablonu można używać następujących znaczników: <br />
+    <br />
+    [Field="NazwaPola"] <br />
+    Znacznik tworzy pole o podanej nazwie. Podczas dodawania jednostki z szablonu użytkownik będzie mógł podać wartość pola. <br />
+    <br />
+    [BlockBegin="NazwaBloku"] <br />
+    Znacznik otwiera blok o podanej nazwie. <br />
+    <br />
+    [BlockEnd="NazwaBloku"] <br />
+    Znacznik zamyka blok o podanej nazwie.
+  </question>
+  <modified>2009-06-20</modified>
+  <template-id>11</template-id>
+</item>

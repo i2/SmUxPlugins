@@ -1,0 +1,34 @@
+[
+  {
+    "Id": "417766",
+    "ThreadId": "204858",
+    "Html": "<p>Do nauki angielskiego używam supermemo mobile.</p>\r\n<p>Swego czasu zakupiłem kurs Extreme English Intermediate. Niestety ze względu na znaczne rozmiary kursu nie daje się go zaimportowac do supermemo mobile.&nbsp; Korzystając z rad tego forum zaczęłem redukowac (edytowac) &nbsp;bazę oryginalną&nbsp;&nbsp;w supermemo ux używając wtyczek do supermemo, nie widzę jednak, żeby rozmiary pliku course smpak ulegały zmniejszaniu.</p>\r\n<p>Mam zatem pytanie jak podzielic plik course.smpak na mniejsze czesci, by potem był możliwy ich import do supermemo mobile</p>",
+    "PostedDate": "2010-03-13T08:21:22.25-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "417888",
+    "ThreadId": "204858",
+    "Html": "<p>1. A to jest zgodne z licencją programu?</p>\r\n<p>2. Dlaczego się nie daje? Może go podziel na części czymś w rodzaju Winrar i rozpakuj w mobile. Nie mam takiego telefonu, więc nie wiem czy ma takie oprogramowanie. Inna metoda: spr&oacute;buj skopiować katalog, utworzyć nowy kurs i wkleić tam ten katalog, tylko nie wiem czy przy tym nie stracisz powt&oacute;rek. Albo skopiuj cały kurs (poza programem) utw&oacute;rz nowy i zr&oacute;b import powt&oacute;rek (zr&oacute;b wcześniej ręcznie kopię bezpieczeństwa)&nbsp; i jeśli się uda to usuń część jednostek. Tak jakbyś dzielił ten kurs na kilka kurs&oacute;w. Jak będzie potrzeba to zainstaluj ponownie ux w innej lokalizacji żeby sobie nie namieszać w przy tym tworzeniu i usuwaniu.</p>\r\n<p>3. Działają wam te wtyczki po update ux do wersji 1450?</p>",
+    "PostedDate": "2010-03-14T04:39:21.593-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "417915",
+    "ThreadId": "204858",
+    "Html": "<p>Na powt&oacute;rkach mi nie zależy, bo nie uczę się&nbsp;na komputerze stacjonarnym.&nbsp;Podział pliku course.smpak jakimś programem chyba nie wchodzi w rachubę. Utworzyłem własną pustą&nbsp;&nbsp;bazę pod supermemo ux.&nbsp; Jak&nbsp;skopiowac&nbsp;wybrane rozdziały z bazy&nbsp; extreme&nbsp;english do tej nowej bazy. ?</p>",
+    "PostedDate": "2010-03-14T08:18:31.543-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "420514",
+    "ThreadId": "204858",
+    "Html": "<p>No niestety..</p>\r\n<p>1. W licencji zabroniona jest jakakolwiek ingerencja w bazy.. Czyli podział bazy (i/lub wkopiowywanie jej fragment&oacute;w) nie jest legalne. Supermemo swojego czasu &quot;proponowało&quot; zgłaszanie błed&oacute;w w bazach (za co można było podobno dostawać jakieś gratisy), ale wydaje się to największą ingerencją w bazy (poza samą nauką). W pluginach są &quot;bookmarks&quot;, ale patrz punkt 3..</p>\r\n<p>2. Nie daje się, bo SMM ma problemy z pamięcią (p. Wesołowski podobno chce to poprawić, ale są jakieś powody dla kt&oacute;rych to nie jest trywialne). W czasie importu bazy po prostu kończy się pamięć (32mega na aplikację). Trzeba chwilkę poczekać, zobaczymy czy autor będzie w stanie naprawić problem.</p>\r\n<p>Podziały pliku .smpak np. rar-em to tak jak dzielenie procesora przy pomocy siekiery.. Niestety bazy nie są streamowe (tylko mają całkiem ładnie zakręconą strukturę)</p>\r\n<p>3. Mi też wtyczki cały czas się wykładają.. Coś mi się wydaje, że mam niespełniony jakiś warunek (bardzo konkretna wersja .net/sm ux/ie/systemu, albo mam coś czego nie powinienem mieć, albo.. :)</p>\r\n<p>prawie 4. Na GoldenLine jest wątek, z kt&oacute;rego można wyczytać, że firma planuje sprzedawać bazy przez internet (ba, nawet z możliwością migracji powt&oacute;rek!). Co prawda wydaje mi się, że nie uda im się to (gł&oacute;wnie z powodu iPhone, albo raczej polityki Apple), ale z niecierpliwością czekam na jakieś sensowne rozwiązania. Jak projekt ten ruszy, to podobno będą do ściągnięcia pocięte bazy (hmm. co pewnie oznacza, że posiadacze pakietu będą musieli potrząsnąć sakiewką?)</p>",
+    "PostedDate": "2010-03-20T03:50:39.717-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

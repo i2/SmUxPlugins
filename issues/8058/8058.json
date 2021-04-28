@@ -1,0 +1,50 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Jak w kursie zmienic rozmiar czcionki, zrobić większe odstępy miedzy wyrazami,  wysrodkowac tekst?",
+    "LastUpdatedDate": "2016-01-20T09:58:27.977-08:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Unassigned",
+      "Severity": 0,
+      "Id": 0
+    },
+    "ProjectName": "SmUxPlugins",
+    "ReportedDate": "2016-01-20T09:48:52.43-08:00",
+    "Status": {
+      "Name": "Proposed",
+      "Id": 1
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "formatowanie tekstu",
+    "Type": {
+      "Name": "Unassigned",
+      "Id": 5
+    },
+    "VoteCount": 1,
+    "Id": 8058
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "Jak w kursie zmienic rozmiar czcionki, zrobić większe odstępy miedzy wyrazami,  wysrodkowac tekst? ",
+      "PostedDate": "2016-01-20T09:56:11.5-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2016-01-20T09:58:27.977-08:00",
+      "Id": -2147483648
+    }
+  ]
+}

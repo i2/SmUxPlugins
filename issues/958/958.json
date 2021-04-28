@@ -1,0 +1,60 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2009-05-04T10:10:47.33-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "In project PluginSystem the file MessageType.cs is missing.",
+    "LastUpdatedDate": "2017-12-08T09:46:47.207-08:00",
+    "PlannedForRelease": "SuperMemoPlugins 1.0.0.1.zip",
+    "ReleaseVisibleToPublic": true,
+    "Priority": {
+      "Name": "High",
+      "Severity": 150,
+      "Id": 3
+    },
+    "ProjectName": "SmUxPlugins",
+    "ReportedDate": "2009-05-01T03:54:20.37-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Lack of file MessageType.cs in TFS",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 1,
+    "Id": 958
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "Resolved with changeset 13537.",
+      "PostedDate": "2009-05-04T10:10:47.33-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-02-13T17:05:09.067-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-05-15T22:15:35.973-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2017-12-08T09:46:47.207-08:00",
+      "Id": -2147483648
+    }
+  ]
+}

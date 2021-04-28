@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "284075",
+    "ThreadId": "82669",
+    "Html": "Zakupiłem najnowszą bazę Basic, gdyż jestem zupełnie początkujący.\r\nNiestety bardzo mi przeszkadza to że jest to baza angielsko-angielska.\r\nPolskie znaczenie pytania pojawia sie dopiero najechaniu na angielskie \r\npytanie.\r\nDla całkowitego nowicjusza jest to strasznie denerwujące.\r\nZupełnie odechciało mi się bawić z tą bazą.\r\nCzy jest jakiś sposób na to aby ptyanie pojawiało się po polsku?\r\n\r\n",
+    "PostedDate": "2010-01-31T16:17:32.303-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "291784",
+    "ThreadId": "82669",
+    "Html": "<p>Pytanie bardziej do producenta programu. Ale z tego co wiem, to nie ma takiej możliwości</p>",
+    "PostedDate": "2010-02-17T10:05:17.797-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "363276",
+    "ThreadId": "82669",
+    "Html": "Zabrałem się za ręczną edycję.\r\nOczywiście dzięki pluginowi.\r\nEdytuj pytanie; komponent; treść wyświetlenia po najechaniu; zaznacz wszystko; Carl +C;\r\nanuluj; ponownie kursor na początek edycji; Shift+Enter; kursor w górę; Carl + V; zaznaczenie wklejenia; Carl +B; Carl+Shift+T; przy czerwonym kolorze Enter.\r\nI w ten to sposób mam na początku pytania wytłuszczone na czerwono słowo polskie.\r\nNa koniec odznaczam dźwięk pytania.\r\nTroszkę to męczące. Przez tydzień w wolnej chwili zamieniłem 100 pozycji.\r\nSpróbuję do tego zaprząc jakiś język skryptowy.\r\n",
+    "PostedDate": "2010-02-23T10:12:46.91-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Possibility to change text size for item. Requested by 2 users",
+    "LastUpdatedDate": "2013-02-13T17:05:06.857-08:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "SmUxPlugins",
+    "ReportedDate": "2009-06-19T12:16:23.973-07:00",
+    "Status": {
+      "Name": "Proposed",
+      "Id": 1
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Possibility to change text size for item",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 3,
+    "Id": 1607
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "Pracuję na niewielkim netbooku i właśnie rozpocząłem tworzenie kolekcji do nauki języka hebrajskiego. Niestety tekst, który wyświetla się na moim ekranie, jest napisany bardzo małą czcionką (a w hebrajskim ważne są nawet kropki pod literami). Chwilowo poradziłem sobie jakoś tworząc odrębny szablon, w którym zastosowałem własny styl czcionki dla pytania. Na dłuższą metę nie jest to jednak najlepsze rozwiązanie, gdyż dużą część elementów będę chciał zaimportować z pliku q&a. Jeśli nie będzie możliwości jakiegoś zwiększenia czcionki w programie, pozostanie mi jedynie ręczna edycja xml'i każdej z jednostek?",
+      "PostedDate": "2009-10-15T05:30:34.563-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2010-03-11T02:58:37.577-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-02-13T17:05:06.857-08:00",
+      "Id": -2147483648
+    }
+  ]
+}
